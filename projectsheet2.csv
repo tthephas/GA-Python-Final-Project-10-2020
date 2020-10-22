@@ -1,0 +1,1133 @@
+,KeyDATRegion,DATSuperRegion,DATRegion,DATCityState,DATCity,DATState,DAT3Zip,DAT3ZipRef,DATCountry
+0,1,Southeast,AL_BIR,"Birmingham, AL",Birmingham,AL,350,352,USA
+1,2,Southeast,AL_BIR,"Birmingham, AL",Birmingham,AL,351,352,USA
+2,3,Southeast,AL_BIR,"Birmingham, AL",Birmingham,AL,352,352,USA
+3,4,Southeast,AL_BIR,"Birmingham, AL",Birmingham,AL,354,352,USA
+4,5,Southeast,AL_BIR,"Birmingham, AL",Birmingham,AL,362,352,USA
+5,6,Southeast,AL_DEC,"Decatur, AL",Decatur,AL,355,356,USA
+6,7,Southeast,AL_DEC,"Decatur, AL",Decatur,AL,356,356,USA
+7,8,Southeast,AL_DEC,"Decatur, AL",Decatur,AL,357,356,USA
+8,9,Southeast,AL_DEC,"Decatur, AL",Decatur,AL,358,356,USA
+9,10,Southeast,AL_DEC,"Decatur, AL",Decatur,AL,384,356,USA
+10,11,Southeast,AL_DEC,"Decatur, AL",Decatur,AL,388,356,USA
+11,12,Florida-So Georgia,AL_MOB,"Mobile, AL",Mobile,AL,325,366,USA
+12,13,Southeast,AL_MOB,"Mobile, AL",Mobile,AL,364,366,USA
+13,14,Southeast,AL_MOB,"Mobile, AL",Mobile,AL,365,366,USA
+14,15,Southeast,AL_MOB,"Mobile, AL",Mobile,AL,366,366,USA
+15,16,Southeast,AL_MOB,"Mobile, AL",Mobile,AL,394,366,USA
+16,17,Southeast,AL_MOB,"Mobile, AL",Mobile,AL,395,366,USA
+17,18,Florida-So Georgia,AL_MON,"Montgomery, AL",Montgomery,AL,318,361,USA
+18,19,Florida-So Georgia,AL_MON,"Montgomery, AL",Montgomery,AL,319,361,USA
+19,20,Southeast,AL_MON,"Montgomery, AL",Montgomery,AL,360,361,USA
+20,21,Southeast,AL_MON,"Montgomery, AL",Montgomery,AL,361,361,USA
+21,22,Southeast,AL_MON,"Montgomery, AL",Montgomery,AL,363,361,USA
+22,23,Southeast,AL_MON,"Montgomery, AL",Montgomery,AL,367,361,USA
+23,24,Southeast,AL_MON,"Montgomery, AL",Montgomery,AL,368,361,USA
+24,25,Southeast,AL_MON,"Montgomery, AL",Montgomery,AL,369,361,USA
+25,26,South Central,AR_FAY,"Fayetteville, AR",Fayetteville,AR,726,727,USA
+26,27,South Central,AR_FAY,"Fayetteville, AR",Fayetteville,AR,727,727,USA
+27,28,South Central,AR_FAY,"Fayetteville, AR",Fayetteville,AR,729,727,USA
+28,29,South Central,AR_FAY,"Fayetteville, AR",Fayetteville,AR,749,727,USA
+29,30,South Central,AR_LIT,"Little Rock, AR",Little Rock,AR,716,722,USA
+30,31,South Central,AR_LIT,"Little Rock, AR",Little Rock,AR,717,722,USA
+31,32,South Central,AR_LIT,"Little Rock, AR",Little Rock,AR,719,722,USA
+32,33,South Central,AR_LIT,"Little Rock, AR",Little Rock,AR,720,722,USA
+33,34,South Central,AR_LIT,"Little Rock, AR",Little Rock,AR,721,722,USA
+34,35,South Central,AR_LIT,"Little Rock, AR",Little Rock,AR,722,722,USA
+35,36,South Central,AR_LIT,"Little Rock, AR",Little Rock,AR,725,722,USA
+36,37,South Central,AR_LIT,"Little Rock, AR",Little Rock,AR,728,722,USA
+37,38,Lower Mountain,AZ_FLA,"Flagstaff, AZ",Flagstaff,AZ,855,860,USA
+38,39,Lower Mountain,AZ_FLA,"Flagstaff, AZ",Flagstaff,AZ,859,860,USA
+39,40,Lower Mountain,AZ_FLA,"Flagstaff, AZ",Flagstaff,AZ,860,860,USA
+40,41,Lower Mountain,AZ_FLA,"Flagstaff, AZ",Flagstaff,AZ,863,860,USA
+41,42,Lower Mountain,AZ_FLA,"Flagstaff, AZ",Flagstaff,AZ,864,860,USA
+42,43,Lower Mountain,AZ_FLA,"Flagstaff, AZ",Flagstaff,AZ,865,860,USA
+43,44,Lower Mountain,AZ_PHO,"Phoenix, AZ",Phoenix,AZ,850,850,USA
+44,45,Lower Mountain,AZ_PHO,"Phoenix, AZ",Phoenix,AZ,851,850,USA
+45,46,Lower Mountain,AZ_PHO,"Phoenix, AZ",Phoenix,AZ,852,850,USA
+46,47,Lower Mountain,AZ_PHO,"Phoenix, AZ",Phoenix,AZ,853,850,USA
+47,48,Lower Mountain,AZ_TUC,"Tucson, AZ",Tucson,AZ,856,857,USA
+48,49,Lower Mountain,AZ_TUC,"Tucson, AZ",Tucson,AZ,857,857,USA
+49,50,California,CA_FRS,"Fresno, CA",Fresno,CA,931,937,USA
+50,51,California,CA_FRS,"Fresno, CA",Fresno,CA,932,937,USA
+51,52,California,CA_FRS,"Fresno, CA",Fresno,CA,933,937,USA
+52,53,California,CA_FRS,"Fresno, CA",Fresno,CA,934,937,USA
+53,54,California,CA_FRS,"Fresno, CA",Fresno,CA,935,937,USA
+54,55,California,CA_FRS,"Fresno, CA",Fresno,CA,936,937,USA
+55,56,California,CA_FRS,"Fresno, CA",Fresno,CA,937,937,USA
+56,57,California,CA_FRS,"Fresno, CA",Fresno,CA,938,937,USA
+57,58,California,CA_LAX,"Los Angeles, CA",Los Angeles,CA,900,900,USA
+58,59,California,CA_LAX,"Los Angeles, CA",Los Angeles,CA,901,900,USA
+59,60,California,CA_LAX,"Los Angeles, CA",Los Angeles,CA,902,900,USA
+60,61,California,CA_LAX,"Los Angeles, CA",Los Angeles,CA,903,900,USA
+61,62,California,CA_LAX,"Los Angeles, CA",Los Angeles,CA,904,900,USA
+62,63,California,CA_LAX,"Los Angeles, CA",Los Angeles,CA,905,900,USA
+63,64,California,CA_LAX,"Los Angeles, CA",Los Angeles,CA,906,900,USA
+64,65,California,CA_LAX,"Los Angeles, CA",Los Angeles,CA,907,900,USA
+65,66,California,CA_LAX,"Los Angeles, CA",Los Angeles,CA,908,900,USA
+66,67,California,CA_LAX,"Los Angeles, CA",Los Angeles,CA,910,900,USA
+67,68,California,CA_LAX,"Los Angeles, CA",Los Angeles,CA,911,900,USA
+68,69,California,CA_LAX,"Los Angeles, CA",Los Angeles,CA,912,900,USA
+69,70,California,CA_LAX,"Los Angeles, CA",Los Angeles,CA,913,900,USA
+70,71,California,CA_LAX,"Los Angeles, CA",Los Angeles,CA,914,900,USA
+71,72,California,CA_LAX,"Los Angeles, CA",Los Angeles,CA,915,900,USA
+72,73,California,CA_LAX,"Los Angeles, CA",Los Angeles,CA,916,900,USA
+73,74,California,CA_LAX,"Los Angeles, CA",Los Angeles,CA,918,900,USA
+74,75,California,CA_LAX,"Los Angeles, CA",Los Angeles,CA,926,900,USA
+75,76,California,CA_LAX,"Los Angeles, CA",Los Angeles,CA,927,900,USA
+76,77,California,CA_LAX,"Los Angeles, CA",Los Angeles,CA,928,900,USA
+77,78,California,CA_LAX,"Los Angeles, CA",Los Angeles,CA,930,900,USA
+78,79,California,CA_ONT,"Ontario, CA",Ontario,CA,917,917,USA
+79,80,California,CA_ONT,"Ontario, CA",Ontario,CA,922,917,USA
+80,81,California,CA_ONT,"Ontario, CA",Ontario,CA,923,917,USA
+81,82,California,CA_ONT,"Ontario, CA",Ontario,CA,924,917,USA
+82,83,California,CA_ONT,"Ontario, CA",Ontario,CA,925,917,USA
+83,84,California,CA_SDI,"San Diego, CA",San Diego,CA,919,921,USA
+84,85,California,CA_SDI,"San Diego, CA",San Diego,CA,920,921,USA
+85,86,California,CA_SDI,"San Diego, CA",San Diego,CA,921,921,USA
+86,87,California,CA_SFR,"San Francisco, CA",San Francisco,CA,939,941,USA
+87,88,California,CA_SFR,"San Francisco, CA",San Francisco,CA,940,941,USA
+88,89,California,CA_SFR,"San Francisco, CA",San Francisco,CA,941,941,USA
+89,90,California,CA_SFR,"San Francisco, CA",San Francisco,CA,945,941,USA
+90,91,California,CA_SFR,"San Francisco, CA",San Francisco,CA,946,941,USA
+91,92,California,CA_SFR,"San Francisco, CA",San Francisco,CA,947,941,USA
+92,93,California,CA_SFR,"San Francisco, CA",San Francisco,CA,948,941,USA
+93,94,California,CA_SFR,"San Francisco, CA",San Francisco,CA,949,941,USA
+94,95,California,CA_SFR,"San Francisco, CA",San Francisco,CA,950,941,USA
+95,96,California,CA_SFR,"San Francisco, CA",San Francisco,CA,951,941,USA
+96,97,California,CA_SFR,"San Francisco, CA",San Francisco,CA,954,941,USA
+97,98,California,CA_STK,"Stockton, CA",Stockton,CA,942,952,USA
+98,99,California,CA_STK,"Stockton, CA",Stockton,CA,943,952,USA
+99,100,California,CA_STK,"Stockton, CA",Stockton,CA,944,952,USA
+100,101,California,CA_STK,"Stockton, CA",Stockton,CA,952,952,USA
+101,102,California,CA_STK,"Stockton, CA",Stockton,CA,953,952,USA
+102,103,California,CA_STK,"Stockton, CA",Stockton,CA,956,952,USA
+103,104,California,CA_STK,"Stockton, CA",Stockton,CA,957,952,USA
+104,105,California,CA_STK,"Stockton, CA",Stockton,CA,958,952,USA
+105,106,California,CA_STK,"Stockton, CA",Stockton,CA,959,952,USA
+106,107,Lower Mountain,CO_DEN,"Denver, CO",Denver,CO,800,802,USA
+107,108,Lower Mountain,CO_DEN,"Denver, CO",Denver,CO,801,802,USA
+108,109,Lower Mountain,CO_DEN,"Denver, CO",Denver,CO,802,802,USA
+109,110,Lower Mountain,CO_DEN,"Denver, CO",Denver,CO,803,802,USA
+110,111,Lower Mountain,CO_DEN,"Denver, CO",Denver,CO,804,802,USA
+111,112,Lower Mountain,CO_DEN,"Denver, CO",Denver,CO,805,802,USA
+112,113,Lower Mountain,CO_DEN,"Denver, CO",Denver,CO,806,802,USA
+113,114,Lower Mountain,CO_DEN,"Denver, CO",Denver,CO,808,802,USA
+114,115,Lower Mountain,CO_DEN,"Denver, CO",Denver,CO,809,802,USA
+115,116,Lower Mountain,CO_DEN,"Denver, CO",Denver,CO,810,802,USA
+116,117,Upper Mountain,CO_DEN,"Denver, CO",Denver,CO,820,802,USA
+117,118,Lower Mountain,CO_GRA,"Grand Jct, CO",Grand Jct,CO,812,815,USA
+118,119,Lower Mountain,CO_GRA,"Grand Jct, CO",Grand Jct,CO,813,815,USA
+119,120,Lower Mountain,CO_GRA,"Grand Jct, CO",Grand Jct,CO,814,815,USA
+120,121,Lower Mountain,CO_GRA,"Grand Jct, CO",Grand Jct,CO,815,815,USA
+121,122,Lower Mountain,CO_GRA,"Grand Jct, CO",Grand Jct,CO,816,815,USA
+122,123,Lower Mountain,CO_GRA,"Grand Jct, CO",Grand Jct,CO,845,815,USA
+123,124,New England,CT_HAR,"Hartford, CT",Hartford,CT,60,61,USA
+124,125,New England,CT_HAR,"Hartford, CT",Hartford,CT,61,61,USA
+125,126,New England,CT_HAR,"Hartford, CT",Hartford,CT,62,61,USA
+126,127,New England,CT_HAR,"Hartford, CT",Hartford,CT,63,61,USA
+127,128,New England,CT_HAR,"Hartford, CT",Hartford,CT,64,61,USA
+128,129,New England,CT_HAR,"Hartford, CT",Hartford,CT,65,61,USA
+129,130,New England,CT_HAR,"Hartford, CT",Hartford,CT,66,61,USA
+130,131,New England,CT_HAR,"Hartford, CT",Hartford,CT,67,61,USA
+131,132,New England,CT_HAR,"Hartford, CT",Hartford,CT,68,61,USA
+132,133,New England,CT_HAR,"Hartford, CT",Hartford,CT,69,61,USA
+133,134,Upper Atlantic,CT_HAR,"Hartford, CT",Hartford,CT,105,61,USA
+134,135,Upper Atlantic,CT_HAR,"Hartford, CT",Hartford,CT,106,61,USA
+135,136,Upper Atlantic,CT_HAR,"Hartford, CT",Hartford,CT,107,61,USA
+136,137,Upper Atlantic,CT_HAR,"Hartford, CT",Hartford,CT,108,61,USA
+137,138,Upper Atlantic,CT_HAR,"Hartford, CT",Hartford,CT,109,61,USA
+138,139,Lower Atlantic,VA_ALE,"Alexandria, VA",Alexandria,VA,200,223,USA
+139,140,Lower Atlantic,VA_ALE,"Alexandria, VA",Alexandria,VA,201,223,USA
+140,141,Lower Atlantic,VA_ALE,"Alexandria, VA",Alexandria,VA,202,223,USA
+141,142,Lower Atlantic,VA_ALE,"Alexandria, VA",Alexandria,VA,203,223,USA
+142,143,Lower Atlantic,VA_ALE,"Alexandria, VA",Alexandria,VA,204,223,USA
+143,144,Lower Atlantic,VA_ALE,"Alexandria, VA",Alexandria,VA,205,223,USA
+144,145,Lower Atlantic,VA_ALE,"Alexandria, VA",Alexandria,VA,206,223,USA
+145,146,Lower Atlantic,VA_ALE,"Alexandria, VA",Alexandria,VA,220,223,USA
+146,147,Lower Atlantic,VA_ALE,"Alexandria, VA",Alexandria,VA,221,223,USA
+147,148,Lower Atlantic,VA_ALE,"Alexandria, VA",Alexandria,VA,222,223,USA
+148,149,Lower Atlantic,VA_ALE,"Alexandria, VA",Alexandria,VA,223,223,USA
+149,150,Lower Atlantic,VA_ALE,"Alexandria, VA",Alexandria,VA,227,223,USA
+150,151,Lower Atlantic,VA_ALE,"Alexandria, VA",Alexandria,VA,569,223,USA
+151,152,Carolinas,NC_GRE,"Greensboro, NC",Greensboro,NC,270,274,USA
+152,153,Carolinas,NC_GRE,"Greensboro, NC",Greensboro,NC,271,274,USA
+153,154,Carolinas,NC_GRE,"Greensboro, NC",Greensboro,NC,272,274,USA
+154,155,Carolinas,NC_GRE,"Greensboro, NC",Greensboro,NC,273,274,USA
+155,156,Carolinas,NC_GRE,"Greensboro, NC",Greensboro,NC,274,274,USA
+156,157,Florida-So Georgia,FL_JAX,"Jacksonville, FL",Jacksonville,FL,320,322,USA
+157,158,Florida-So Georgia,FL_JAX,"Jacksonville, FL",Jacksonville,FL,321,322,USA
+158,159,Florida-So Georgia,FL_JAX,"Jacksonville, FL",Jacksonville,FL,322,322,USA
+159,160,Florida-So Georgia,FL_JAX,"Jacksonville, FL",Jacksonville,FL,326,322,USA
+160,161,Florida-So Georgia,FL_LAK,"Lakeland, FL",Lakeland,FL,327,338,USA
+161,162,Florida-So Georgia,FL_LAK,"Lakeland, FL",Lakeland,FL,328,338,USA
+162,163,Florida-So Georgia,FL_LAK,"Lakeland, FL",Lakeland,FL,329,338,USA
+163,164,Florida-So Georgia,FL_LAK,"Lakeland, FL",Lakeland,FL,335,338,USA
+164,165,Florida-So Georgia,FL_LAK,"Lakeland, FL",Lakeland,FL,336,338,USA
+165,166,Florida-So Georgia,FL_LAK,"Lakeland, FL",Lakeland,FL,337,338,USA
+166,167,Florida-So Georgia,FL_LAK,"Lakeland, FL",Lakeland,FL,338,338,USA
+167,168,Florida-So Georgia,FL_LAK,"Lakeland, FL",Lakeland,FL,342,338,USA
+168,169,Florida-So Georgia,FL_LAK,"Lakeland, FL",Lakeland,FL,344,338,USA
+169,170,Florida-So Georgia,FL_LAK,"Lakeland, FL",Lakeland,FL,346,338,USA
+170,171,Florida-So Georgia,FL_LAK,"Lakeland, FL",Lakeland,FL,347,338,USA
+171,172,Florida-So Georgia,FL_MIA,"Miami, FL",Miami,FL,330,331,USA
+172,173,Florida-So Georgia,FL_MIA,"Miami, FL",Miami,FL,331,331,USA
+173,174,Florida-So Georgia,FL_MIA,"Miami, FL",Miami,FL,332,331,USA
+174,175,Florida-So Georgia,FL_MIA,"Miami, FL",Miami,FL,333,331,USA
+175,176,Florida-So Georgia,FL_MIA,"Miami, FL",Miami,FL,334,331,USA
+176,177,Florida-So Georgia,FL_MIA,"Miami, FL",Miami,FL,339,331,USA
+177,178,Florida-So Georgia,FL_MIA,"Miami, FL",Miami,FL,341,331,USA
+178,179,Florida-So Georgia,FL_MIA,"Miami, FL",Miami,FL,349,331,USA
+179,180,Florida-So Georgia,FL_TAL,"Tallahassee, FL",Tallahassee,FL,323,323,USA
+180,181,Florida-So Georgia,FL_TAL,"Tallahassee, FL",Tallahassee,FL,324,323,USA
+181,182,Southeast,GA_ATL,"Atlanta, GA",Atlanta,GA,300,303,USA
+182,183,Southeast,GA_ATL,"Atlanta, GA",Atlanta,GA,301,303,USA
+183,184,Southeast,GA_ATL,"Atlanta, GA",Atlanta,GA,302,303,USA
+184,185,Southeast,GA_ATL,"Atlanta, GA",Atlanta,GA,303,303,USA
+185,186,Southeast,GA_ATL,"Atlanta, GA",Atlanta,GA,305,303,USA
+186,187,Southeast,GA_ATL,"Atlanta, GA",Atlanta,GA,306,303,USA
+187,188,Southeast,GA_ATL,"Atlanta, GA",Atlanta,GA,311,303,USA
+188,189,Southeast,GA_ATL,"Atlanta, GA",Atlanta,GA,399,303,USA
+189,190,Southeast,GA_MAC,"Macon, GA",Macon,GA,310,312,USA
+190,191,Southeast,GA_MAC,"Macon, GA",Macon,GA,312,312,USA
+191,192,Carolinas,GA_SAV,"Savannah, GA",Savannah,GA,299,314,USA
+192,193,Southeast,GA_SAV,"Savannah, GA",Savannah,GA,304,314,USA
+193,194,Florida-So Georgia,GA_SAV,"Savannah, GA",Savannah,GA,313,314,USA
+194,195,Florida-So Georgia,GA_SAV,"Savannah, GA",Savannah,GA,314,314,USA
+195,196,Florida-So Georgia,GA_SAV,"Savannah, GA",Savannah,GA,315,314,USA
+196,197,Florida-So Georgia,GA_TIF,"Tifton, GA",Tifton,GA,316,317,USA
+197,198,Florida-So Georgia,GA_TIF,"Tifton, GA",Tifton,GA,317,317,USA
+198,199,Florida-So Georgia,GA_TIF,"Tifton, GA",Tifton,GA,398,317,USA
+199,200,Upper Midwest,IA_CED,"Cedar Rapids, IA",Cedar Rapids,IA,522,524,USA
+200,201,Upper Midwest,IA_CED,"Cedar Rapids, IA",Cedar Rapids,IA,523,524,USA
+201,202,Upper Midwest,IA_CED,"Cedar Rapids, IA",Cedar Rapids,IA,524,524,USA
+202,203,Upper Midwest,IA_DES,"Des Moines, IA",Des Moines,IA,500,503,USA
+203,204,Upper Midwest,IA_DES,"Des Moines, IA",Des Moines,IA,501,503,USA
+204,205,Upper Midwest,IA_DES,"Des Moines, IA",Des Moines,IA,502,503,USA
+205,206,Upper Midwest,IA_DES,"Des Moines, IA",Des Moines,IA,503,503,USA
+206,207,Upper Midwest,IA_DES,"Des Moines, IA",Des Moines,IA,504,503,USA
+207,208,Upper Midwest,IA_DES,"Des Moines, IA",Des Moines,IA,505,503,USA
+208,209,Upper Midwest,IA_DES,"Des Moines, IA",Des Moines,IA,508,503,USA
+209,210,Upper Midwest,IA_DES,"Des Moines, IA",Des Moines,IA,509,503,USA
+210,211,Upper Midwest,IA_DES,"Des Moines, IA",Des Moines,IA,514,503,USA
+211,212,Upper Midwest,IA_DUB,"Dubuque, IA",Dubuque,IA,506,520,USA
+212,213,Upper Midwest,IA_DUB,"Dubuque, IA",Dubuque,IA,507,520,USA
+213,214,Upper Midwest,IA_DUB,"Dubuque, IA",Dubuque,IA,520,520,USA
+214,215,Upper Midwest,IA_DUB,"Dubuque, IA",Dubuque,IA,521,520,USA
+215,216,Great Lakes,IA_DUB,"Dubuque, IA",Dubuque,IA,538,520,USA
+216,217,Upper Mountain,ID_TWI,"Twin Falls, ID",Twin Falls,ID,832,833,USA
+217,218,Upper Mountain,ID_TWI,"Twin Falls, ID",Twin Falls,ID,833,833,USA
+218,219,Upper Mountain,ID_TWI,"Twin Falls, ID",Twin Falls,ID,834,833,USA
+219,220,Upper Mountain,ID_TWI,"Twin Falls, ID",Twin Falls,ID,836,833,USA
+220,221,Upper Mountain,ID_TWI,"Twin Falls, ID",Twin Falls,ID,837,833,USA
+221,222,Pacific Northwest,ID_TWI,"Twin Falls, ID",Twin Falls,ID,979,833,USA
+222,223,Great Lakes,IL_BLO,"Bloomington, IL",Bloomington,IL,609,617,USA
+223,224,Great Lakes,IL_BLO,"Bloomington, IL",Bloomington,IL,615,617,USA
+224,225,Great Lakes,IL_BLO,"Bloomington, IL",Bloomington,IL,616,617,USA
+225,226,Great Lakes,IL_BLO,"Bloomington, IL",Bloomington,IL,617,617,USA
+226,227,Great Lakes,IL_BLO,"Bloomington, IL",Bloomington,IL,618,617,USA
+227,228,Great Lakes,IL_CHI,"Chicago, IL",Chicago,IL,600,606,USA
+228,229,Great Lakes,IL_CHI,"Chicago, IL",Chicago,IL,601,606,USA
+229,230,Great Lakes,IL_CHI,"Chicago, IL",Chicago,IL,602,606,USA
+230,231,Great Lakes,IL_CHI,"Chicago, IL",Chicago,IL,603,606,USA
+231,232,Great Lakes,IL_CHI,"Chicago, IL",Chicago,IL,606,606,USA
+232,233,Great Lakes,IL_CHI,"Chicago, IL",Chicago,IL,607,606,USA
+233,234,Great Lakes,IL_CHI,"Chicago, IL",Chicago,IL,608,606,USA
+234,235,Great Lakes,IL_JOL,"Joliet, IL",Joliet,IL,604,604,USA
+235,236,Great Lakes,IL_JOL,"Joliet, IL",Joliet,IL,605,604,USA
+236,237,Ohio River,IL_QUI,"Quincy, IL",Quincy,IL,623,623,USA
+237,238,Lower Midwest,IL_QUI,"Quincy, IL",Quincy,IL,634,623,USA
+238,239,Lower Midwest,IL_QUI,"Quincy, IL",Quincy,IL,635,623,USA
+239,240,Great Lakes,IL_RFD,"Rockford, IL",Rockford,IL,610,611,USA
+240,241,Great Lakes,IL_RFD,"Rockford, IL",Rockford,IL,611,611,USA
+241,242,Upper Midwest,IL_ROC,"Rock Island, IL",Rock Island,IL,525,612,USA
+242,243,Upper Midwest,IL_ROC,"Rock Island, IL",Rock Island,IL,526,612,USA
+243,244,Upper Midwest,IL_ROC,"Rock Island, IL",Rock Island,IL,527,612,USA
+244,245,Upper Midwest,IL_ROC,"Rock Island, IL",Rock Island,IL,528,612,USA
+245,246,Great Lakes,IL_ROC,"Rock Island, IL",Rock Island,IL,612,612,USA
+246,247,Great Lakes,IL_ROC,"Rock Island, IL",Rock Island,IL,613,612,USA
+247,248,Great Lakes,IL_ROC,"Rock Island, IL",Rock Island,IL,614,612,USA
+248,249,Ohio River,IL_TAY,"Taylorville, IL",Taylorville,IL,625,625,USA
+249,250,Ohio River,IL_TAY,"Taylorville, IL",Taylorville,IL,626,625,USA
+250,251,Ohio River,IL_TAY,"Taylorville, IL",Taylorville,IL,627,625,USA
+251,252,Ohio River,IN_EVA,"Evansville, IN",Evansville,IN,423,477,USA
+252,253,Ohio River,IN_EVA,"Evansville, IN",Evansville,IN,424,477,USA
+253,254,Ohio River,IN_EVA,"Evansville, IN",Evansville,IN,475,477,USA
+254,255,Ohio River,IN_EVA,"Evansville, IN",Evansville,IN,476,477,USA
+255,256,Ohio River,IN_EVA,"Evansville, IN",Evansville,IN,477,477,USA
+256,257,Ohio River,IN_EVA,"Evansville, IN",Evansville,IN,628,477,USA
+257,258,Great Lakes,IN_FTW,"Ft Wayne, IN",Ft Wayne,IN,467,468,USA
+258,259,Great Lakes,IN_FTW,"Ft Wayne, IN",Ft Wayne,IN,468,468,USA
+259,260,Great Lakes,IN_FTW,"Ft Wayne, IN",Ft Wayne,IN,469,468,USA
+260,261,Great Lakes,IN_GRY,"Gary, IN",Gary,IN,463,464,USA
+261,262,Great Lakes,IN_GRY,"Gary, IN",Gary,IN,464,464,USA
+262,263,Great Lakes,IN_IND,"Indianapolis, IN",Indianapolis,IN,460,462,USA
+263,264,Great Lakes,IN_IND,"Indianapolis, IN",Indianapolis,IN,461,462,USA
+264,265,Great Lakes,IN_IND,"Indianapolis, IN",Indianapolis,IN,462,462,USA
+265,266,Ohio River,IN_IND,"Indianapolis, IN",Indianapolis,IN,472,462,USA
+266,267,Ohio River,IN_IND,"Indianapolis, IN",Indianapolis,IN,473,462,USA
+267,268,Ohio River,IN_IND,"Indianapolis, IN",Indianapolis,IN,474,462,USA
+268,269,Great Lakes,IN_IND,"Indianapolis, IN",Indianapolis,IN,479,462,USA
+269,270,Great Lakes,IN_SBD,"South Bend, IN",South Bend,IN,465,466,USA
+270,271,Great Lakes,IN_SBD,"South Bend, IN",South Bend,IN,466,466,USA
+271,272,Great Lakes,IN_SBD,"South Bend, IN",South Bend,IN,491,466,USA
+272,273,Ohio River,IN_TER,"Terre Haute, IN",Terre Haute,IN,478,478,USA
+273,274,Ohio River,IN_TER,"Terre Haute, IN",Terre Haute,IN,619,478,USA
+274,275,Ohio River,IN_TER,"Terre Haute, IN",Terre Haute,IN,624,478,USA
+275,276,Lower Midwest,KS_HUT,"Hutchinson, KS",Hutchinson,KS,668,675,USA
+276,277,Lower Midwest,KS_HUT,"Hutchinson, KS",Hutchinson,KS,669,675,USA
+277,278,Lower Midwest,KS_HUT,"Hutchinson, KS",Hutchinson,KS,670,675,USA
+278,279,Lower Midwest,KS_HUT,"Hutchinson, KS",Hutchinson,KS,671,675,USA
+279,280,Lower Midwest,KS_HUT,"Hutchinson, KS",Hutchinson,KS,672,675,USA
+280,281,Lower Midwest,KS_HUT,"Hutchinson, KS",Hutchinson,KS,673,675,USA
+281,282,Lower Midwest,KS_HUT,"Hutchinson, KS",Hutchinson,KS,674,675,USA
+282,283,Lower Midwest,KS_HUT,"Hutchinson, KS",Hutchinson,KS,675,675,USA
+283,284,Lower Midwest,KS_HUT,"Hutchinson, KS",Hutchinson,KS,676,675,USA
+284,285,Lower Midwest,KS_HUT,"Hutchinson, KS",Hutchinson,KS,677,675,USA
+285,286,Lower Midwest,KS_HUT,"Hutchinson, KS",Hutchinson,KS,678,675,USA
+286,287,Lower Midwest,KS_HUT,"Hutchinson, KS",Hutchinson,KS,679,675,USA
+287,288,Ohio River,KY_BOW,"Bowling Green, KY",Bowling Green,KY,421,421,USA
+288,289,Ohio River,KY_BOW,"Bowling Green, KY",Bowling Green,KY,422,421,USA
+289,290,Ohio River,KY_BOW,"Bowling Green, KY",Bowling Green,KY,427,421,USA
+290,291,Ohio River,KY_LEX,"Lexington, KY",Lexington,KY,403,405,USA
+291,292,Ohio River,KY_LEX,"Lexington, KY",Lexington,KY,404,405,USA
+292,293,Ohio River,KY_LEX,"Lexington, KY",Lexington,KY,405,405,USA
+293,294,Ohio River,KY_LEX,"Lexington, KY",Lexington,KY,406,405,USA
+294,295,Ohio River,KY_LEX,"Lexington, KY",Lexington,KY,410,405,USA
+295,296,Ohio River,KY_LEX,"Lexington, KY",Lexington,KY,413,405,USA
+296,297,Ohio River,KY_LEX,"Lexington, KY",Lexington,KY,414,405,USA
+297,298,Ohio River,KY_LEX,"Lexington, KY",Lexington,KY,417,405,USA
+298,299,Ohio River,KY_LEX,"Lexington, KY",Lexington,KY,418,405,USA
+299,300,Ohio River,KY_LEX,"Lexington, KY",Lexington,KY,419,405,USA
+300,301,Ohio River,KY_LOU,"Louisville, KY",Louisville,KY,400,402,USA
+301,302,Ohio River,KY_LOU,"Louisville, KY",Louisville,KY,401,402,USA
+302,303,Ohio River,KY_LOU,"Louisville, KY",Louisville,KY,402,402,USA
+303,304,Ohio River,KY_LOU,"Louisville, KY",Louisville,KY,471,402,USA
+304,305,South Central,LA_NEW,"New Orleans, LA",New Orleans,LA,700,701,USA
+305,306,South Central,LA_NEW,"New Orleans, LA",New Orleans,LA,701,701,USA
+306,307,South Central,LA_NEW,"New Orleans, LA",New Orleans,LA,703,701,USA
+307,308,South Central,LA_NEW,"New Orleans, LA",New Orleans,LA,704,701,USA
+308,309,South Central,LA_NEW,"New Orleans, LA",New Orleans,LA,705,701,USA
+309,310,South Central,LA_NEW,"New Orleans, LA",New Orleans,LA,706,701,USA
+310,311,South Central,LA_NEW,"New Orleans, LA",New Orleans,LA,707,701,USA
+311,312,South Central,LA_NEW,"New Orleans, LA",New Orleans,LA,708,701,USA
+312,313,South Central,LA_SHR,"Shreveport, LA",Shreveport,LA,710,711,USA
+313,314,South Central,LA_SHR,"Shreveport, LA",Shreveport,LA,711,711,USA
+314,315,South Central,LA_SHR,"Shreveport, LA",Shreveport,LA,712,711,USA
+315,316,South Central,LA_SHR,"Shreveport, LA",Shreveport,LA,713,711,USA
+316,317,South Central,LA_SHR,"Shreveport, LA",Shreveport,LA,714,711,USA
+317,318,South Central,LA_SHR,"Shreveport, LA",Shreveport,LA,756,711,USA
+318,319,South Central,LA_SHR,"Shreveport, LA",Shreveport,LA,759,711,USA
+319,320,New England,MA_BOS,"Boston, MA",Boston,MA,14,22,USA
+320,321,New England,MA_BOS,"Boston, MA",Boston,MA,15,22,USA
+321,322,New England,MA_BOS,"Boston, MA",Boston,MA,16,22,USA
+322,323,New England,MA_BOS,"Boston, MA",Boston,MA,17,22,USA
+323,324,New England,MA_BOS,"Boston, MA",Boston,MA,18,22,USA
+324,325,New England,MA_BOS,"Boston, MA",Boston,MA,19,22,USA
+325,326,New England,MA_BOS,"Boston, MA",Boston,MA,20,22,USA
+326,327,New England,MA_BOS,"Boston, MA",Boston,MA,21,22,USA
+327,328,New England,MA_BOS,"Boston, MA",Boston,MA,22,22,USA
+328,329,New England,MA_BOS,"Boston, MA",Boston,MA,23,22,USA
+329,330,New England,MA_BOS,"Boston, MA",Boston,MA,24,22,USA
+330,331,New England,MA_BOS,"Boston, MA",Boston,MA,25,22,USA
+331,332,New England,MA_BOS,"Boston, MA",Boston,MA,26,22,USA
+332,333,New England,MA_BOS,"Boston, MA",Boston,MA,27,22,USA
+333,334,New England,MA_BOS,"Boston, MA",Boston,MA,28,22,USA
+334,335,New England,MA_BOS,"Boston, MA",Boston,MA,29,22,USA
+335,336,New England,MA_BOS,"Boston, MA",Boston,MA,55,22,USA
+336,337,New England,MA_SPR,"Springfield, MA",Springfield,MA,10,11,USA
+337,338,New England,MA_SPR,"Springfield, MA",Springfield,MA,11,11,USA
+338,339,New England,MA_SPR,"Springfield, MA",Springfield,MA,12,11,USA
+339,340,New England,MA_SPR,"Springfield, MA",Springfield,MA,13,11,USA
+340,341,Lower Atlantic,MD_BAL,"Baltimore, MD",Baltimore,MD,197,212,USA
+341,342,Lower Atlantic,MD_BAL,"Baltimore, MD",Baltimore,MD,198,212,USA
+342,343,Lower Atlantic,MD_BAL,"Baltimore, MD",Baltimore,MD,199,212,USA
+343,344,Lower Atlantic,MD_BAL,"Baltimore, MD",Baltimore,MD,207,212,USA
+344,345,Lower Atlantic,MD_BAL,"Baltimore, MD",Baltimore,MD,208,212,USA
+345,346,Lower Atlantic,MD_BAL,"Baltimore, MD",Baltimore,MD,209,212,USA
+346,347,Lower Atlantic,MD_BAL,"Baltimore, MD",Baltimore,MD,210,212,USA
+347,348,Lower Atlantic,MD_BAL,"Baltimore, MD",Baltimore,MD,211,212,USA
+348,349,Lower Atlantic,MD_BAL,"Baltimore, MD",Baltimore,MD,212,212,USA
+349,350,Lower Atlantic,MD_BAL,"Baltimore, MD",Baltimore,MD,214,212,USA
+350,351,Lower Atlantic,MD_BAL,"Baltimore, MD",Baltimore,MD,216,212,USA
+351,352,Lower Atlantic,MD_BAL,"Baltimore, MD",Baltimore,MD,218,212,USA
+352,353,Lower Atlantic,MD_BAL,"Baltimore, MD",Baltimore,MD,219,212,USA
+353,354,New England,ME_AUG,"Augusta, ME",Augusta,ME,38,43,USA
+354,355,New England,ME_AUG,"Augusta, ME",Augusta,ME,39,43,USA
+355,356,New England,ME_AUG,"Augusta, ME",Augusta,ME,40,43,USA
+356,357,New England,ME_AUG,"Augusta, ME",Augusta,ME,41,43,USA
+357,358,New England,ME_AUG,"Augusta, ME",Augusta,ME,42,43,USA
+358,359,New England,ME_AUG,"Augusta, ME",Augusta,ME,43,43,USA
+359,360,New England,ME_AUG,"Augusta, ME",Augusta,ME,44,43,USA
+360,361,New England,ME_AUG,"Augusta, ME",Augusta,ME,45,43,USA
+361,362,New England,ME_AUG,"Augusta, ME",Augusta,ME,46,43,USA
+362,363,New England,ME_AUG,"Augusta, ME",Augusta,ME,47,43,USA
+363,364,New England,ME_AUG,"Augusta, ME",Augusta,ME,48,43,USA
+364,365,New England,ME_AUG,"Augusta, ME",Augusta,ME,49,43,USA
+365,366,Great Lakes,MI_DET,"Detroit, MI",Detroit,MI,480,482,USA
+366,367,Great Lakes,MI_DET,"Detroit, MI",Detroit,MI,481,482,USA
+367,368,Great Lakes,MI_DET,"Detroit, MI",Detroit,MI,482,482,USA
+368,369,Great Lakes,MI_DET,"Detroit, MI",Detroit,MI,483,482,USA
+369,370,Great Lakes,MI_DET,"Detroit, MI",Detroit,MI,484,482,USA
+370,371,Great Lakes,MI_DET,"Detroit, MI",Detroit,MI,485,482,USA
+371,372,Great Lakes,MI_DET,"Detroit, MI",Detroit,MI,492,482,USA
+372,373,Great Lakes,MI_RAP,"Grand Rapids, MI",Grand Rapids,MI,488,495,USA
+373,374,Great Lakes,MI_RAP,"Grand Rapids, MI",Grand Rapids,MI,489,495,USA
+374,375,Great Lakes,MI_RAP,"Grand Rapids, MI",Grand Rapids,MI,490,495,USA
+375,376,Great Lakes,MI_RAP,"Grand Rapids, MI",Grand Rapids,MI,493,495,USA
+376,377,Great Lakes,MI_RAP,"Grand Rapids, MI",Grand Rapids,MI,494,495,USA
+377,378,Great Lakes,MI_RAP,"Grand Rapids, MI",Grand Rapids,MI,495,495,USA
+378,379,Great Lakes,MI_RAP,"Grand Rapids, MI",Grand Rapids,MI,496,495,USA
+379,380,Great Lakes,MI_SAG,"Saginaw, MI",Saginaw,MI,486,486,USA
+380,381,Great Lakes,MI_SAG,"Saginaw, MI",Saginaw,MI,487,486,USA
+381,382,Great Lakes,MI_SAG,"Saginaw, MI",Saginaw,MI,497,486,USA
+382,383,Great Lakes,MN_DUL,"Duluth, MN",Duluth,MN,498,558,USA
+383,384,Great Lakes,MN_DUL,"Duluth, MN",Duluth,MN,499,558,USA
+384,385,Great Lakes,MN_DUL,"Duluth, MN",Duluth,MN,545,558,USA
+385,386,Great Lakes,MN_DUL,"Duluth, MN",Duluth,MN,548,558,USA
+386,387,Upper Midwest,MN_DUL,"Duluth, MN",Duluth,MN,556,558,USA
+387,388,Upper Midwest,MN_DUL,"Duluth, MN",Duluth,MN,557,558,USA
+388,389,Upper Midwest,MN_DUL,"Duluth, MN",Duluth,MN,558,558,USA
+389,390,Upper Midwest,MN_MIN,"Minneapolis, MN",Minneapolis,MN,550,554,USA
+390,391,Upper Midwest,MN_MIN,"Minneapolis, MN",Minneapolis,MN,551,554,USA
+391,392,Upper Midwest,MN_MIN,"Minneapolis, MN",Minneapolis,MN,553,554,USA
+392,393,Upper Midwest,MN_MIN,"Minneapolis, MN",Minneapolis,MN,554,554,USA
+393,394,Upper Midwest,MN_MIN,"Minneapolis, MN",Minneapolis,MN,555,554,USA
+394,395,Upper Midwest,MN_MIN,"Minneapolis, MN",Minneapolis,MN,560,554,USA
+395,396,Upper Midwest,MN_STC,"St Cloud, MN",St Cloud,MN,563,563,USA
+396,397,Upper Midwest,MN_STC,"St Cloud, MN",St Cloud,MN,564,563,USA
+397,398,Ohio River,MO_GIR,"Cape Girardeau, MO",Cape Girardeau,MO,420,637,USA
+398,399,Ohio River,MO_GIR,"Cape Girardeau, MO",Cape Girardeau,MO,629,637,USA
+399,400,Lower Midwest,MO_GIR,"Cape Girardeau, MO",Cape Girardeau,MO,636,637,USA
+400,401,Lower Midwest,MO_GIR,"Cape Girardeau, MO",Cape Girardeau,MO,637,637,USA
+401,402,Lower Midwest,MO_GIR,"Cape Girardeau, MO",Cape Girardeau,MO,638,637,USA
+402,403,Lower Midwest,MO_GIR,"Cape Girardeau, MO",Cape Girardeau,MO,639,637,USA
+403,404,Lower Midwest,MO_JEF,"Jefferson City, MO",Jefferson City,MO,650,651,USA
+404,405,Lower Midwest,MO_JEF,"Jefferson City, MO",Jefferson City,MO,651,651,USA
+405,406,Lower Midwest,MO_JEF,"Jefferson City, MO",Jefferson City,MO,652,651,USA
+406,407,Lower Midwest,MO_JEF,"Jefferson City, MO",Jefferson City,MO,653,651,USA
+407,408,Lower Midwest,MO_JOP,"Joplin, MO",Joplin,MO,647,648,USA
+408,409,Lower Midwest,MO_JOP,"Joplin, MO",Joplin,MO,648,648,USA
+409,410,Lower Midwest,MO_JOP,"Joplin, MO",Joplin,MO,654,648,USA
+410,411,Lower Midwest,MO_JOP,"Joplin, MO",Joplin,MO,655,648,USA
+411,412,Lower Midwest,MO_JOP,"Joplin, MO",Joplin,MO,656,648,USA
+412,413,Lower Midwest,MO_JOP,"Joplin, MO",Joplin,MO,657,648,USA
+413,414,Lower Midwest,MO_JOP,"Joplin, MO",Joplin,MO,658,648,USA
+414,415,Lower Midwest,MO_JOP,"Joplin, MO",Joplin,MO,667,648,USA
+415,416,Lower Midwest,MO_KAN,"Kansas City, MO",Kansas City,MO,640,641,USA
+416,417,Lower Midwest,MO_KAN,"Kansas City, MO",Kansas City,MO,641,641,USA
+417,418,Lower Midwest,MO_KAN,"Kansas City, MO",Kansas City,MO,644,641,USA
+418,419,Lower Midwest,MO_KAN,"Kansas City, MO",Kansas City,MO,645,641,USA
+419,420,Lower Midwest,MO_KAN,"Kansas City, MO",Kansas City,MO,646,641,USA
+420,421,Lower Midwest,MO_KAN,"Kansas City, MO",Kansas City,MO,649,641,USA
+421,422,Lower Midwest,MO_KAN,"Kansas City, MO",Kansas City,MO,660,641,USA
+422,423,Lower Midwest,MO_KAN,"Kansas City, MO",Kansas City,MO,661,641,USA
+423,424,Lower Midwest,MO_KAN,"Kansas City, MO",Kansas City,MO,662,641,USA
+424,425,Lower Midwest,MO_KAN,"Kansas City, MO",Kansas City,MO,664,641,USA
+425,426,Lower Midwest,MO_KAN,"Kansas City, MO",Kansas City,MO,665,641,USA
+426,427,Lower Midwest,MO_KAN,"Kansas City, MO",Kansas City,MO,666,641,USA
+427,428,Ohio River,MO_STL,"St Louis, MO",St Louis,MO,620,631,USA
+428,429,Ohio River,MO_STL,"St Louis, MO",St Louis,MO,622,631,USA
+429,430,Lower Midwest,MO_STL,"St Louis, MO",St Louis,MO,630,631,USA
+430,431,Lower Midwest,MO_STL,"St Louis, MO",St Louis,MO,631,631,USA
+431,432,Lower Midwest,MO_STL,"St Louis, MO",St Louis,MO,633,631,USA
+432,433,Southeast,MS_JAC,"Jackson, MS",Jackson,MS,387,392,USA
+433,434,Southeast,MS_JAC,"Jackson, MS",Jackson,MS,389,392,USA
+434,435,Southeast,MS_JAC,"Jackson, MS",Jackson,MS,390,392,USA
+435,436,Southeast,MS_JAC,"Jackson, MS",Jackson,MS,391,392,USA
+436,437,Southeast,MS_JAC,"Jackson, MS",Jackson,MS,392,392,USA
+437,438,Southeast,MS_JAC,"Jackson, MS",Jackson,MS,393,392,USA
+438,439,Southeast,MS_JAC,"Jackson, MS",Jackson,MS,396,392,USA
+439,440,Southeast,MS_JAC,"Jackson, MS",Jackson,MS,397,392,USA
+440,441,Upper Mountain,MT_BIL,"Billings, MT",Billings,MT,590,591,USA
+441,442,Upper Mountain,MT_BIL,"Billings, MT",Billings,MT,592,591,USA
+442,443,Upper Mountain,MT_BIL,"Billings, MT",Billings,MT,591,591,USA
+443,444,Upper Mountain,MT_BIL,"Billings, MT",Billings,MT,593,591,USA
+444,445,Upper Mountain,MT_BIL,"Billings, MT",Billings,MT,821,591,USA
+445,446,Upper Mountain,MT_BIL,"Billings, MT",Billings,MT,824,591,USA
+446,447,Upper Mountain,MT_BIL,"Billings, MT",Billings,MT,828,591,USA
+447,448,Upper Mountain,MT_BIL,"Billings, MT",Billings,MT,830,591,USA
+448,449,Upper Mountain,MT_MIS,"Missoula, MT",Missoula,MT,594,598,USA
+449,450,Upper Mountain,MT_MIS,"Missoula, MT",Missoula,MT,595,598,USA
+450,451,Upper Mountain,MT_MIS,"Missoula, MT",Missoula,MT,596,598,USA
+451,452,Upper Mountain,MT_MIS,"Missoula, MT",Missoula,MT,597,598,USA
+452,453,Upper Mountain,MT_MIS,"Missoula, MT",Missoula,MT,598,598,USA
+453,454,Upper Mountain,MT_MIS,"Missoula, MT",Missoula,MT,599,598,USA
+454,455,Carolinas,NC_CHA,"Charlotte, NC",Charlotte,NC,280,282,USA
+455,456,Carolinas,NC_CHA,"Charlotte, NC",Charlotte,NC,281,282,USA
+456,457,Carolinas,NC_CHA,"Charlotte, NC",Charlotte,NC,282,282,USA
+457,458,Carolinas,NC_CHA,"Charlotte, NC",Charlotte,NC,283,282,USA
+458,459,Carolinas,NC_CHA,"Charlotte, NC",Charlotte,NC,286,282,USA
+459,460,Carolinas,NC_CHA,"Charlotte, NC",Charlotte,NC,297,282,USA
+460,461,Carolinas,NC_RAL,"Raleigh, NC",Raleigh,NC,275,276,USA
+461,462,Carolinas,NC_RAL,"Raleigh, NC",Raleigh,NC,276,276,USA
+462,463,Carolinas,NC_RAL,"Raleigh, NC",Raleigh,NC,277,276,USA
+463,464,Carolinas,NC_RAL,"Raleigh, NC",Raleigh,NC,278,276,USA
+464,465,Carolinas,NC_WIL,"Wilmington, NC",Wilmington,NC,284,284,USA
+465,466,Carolinas,NC_WIL,"Wilmington, NC",Wilmington,NC,285,284,USA
+466,467,Upper Midwest,ND_FAR,"Fargo, ND",Fargo,ND,565,581,USA
+467,468,Upper Midwest,ND_FAR,"Fargo, ND",Fargo,ND,566,581,USA
+468,469,Upper Midwest,ND_FAR,"Fargo, ND",Fargo,ND,567,581,USA
+469,470,Upper Midwest,ND_FAR,"Fargo, ND",Fargo,ND,580,581,USA
+470,471,Upper Midwest,ND_FAR,"Fargo, ND",Fargo,ND,581,581,USA
+471,472,Upper Midwest,ND_FAR,"Fargo, ND",Fargo,ND,582,581,USA
+472,473,Upper Midwest,ND_BIS,"Bismarck, ND",Bismarck,ND,583,585,USA
+473,474,Upper Midwest,ND_BIS,"Bismarck, ND",Bismarck,ND,584,585,USA
+474,475,Upper Midwest,ND_BIS,"Bismarck, ND",Bismarck,ND,585,585,USA
+475,476,Upper Midwest,ND_BIS,"Bismarck, ND",Bismarck,ND,586,585,USA
+476,477,Upper Midwest,ND_BIS,"Bismarck, ND",Bismarck,ND,587,585,USA
+477,478,Upper Midwest,ND_BIS,"Bismarck, ND",Bismarck,ND,588,585,USA
+478,479,Lower Midwest,NE_NPL,"North Platte, NE",North Platte,NE,690,691,USA
+479,480,Lower Midwest,NE_NPL,"North Platte, NE",North Platte,NE,691,691,USA
+480,481,Lower Midwest,NE_NPL,"North Platte, NE",North Platte,NE,692,691,USA
+481,482,Lower Midwest,NE_NPL,"North Platte, NE",North Platte,NE,693,691,USA
+482,483,Lower Mountain,NE_NPL,"North Platte, NE",North Platte,NE,807,691,USA
+483,484,Upper Mountain,NE_NPL,"North Platte, NE",North Platte,NE,822,691,USA
+484,485,Upper Midwest,NE_OMA,"Omaha, NE",Omaha,NE,515,681,USA
+485,486,Upper Midwest,NE_OMA,"Omaha, NE",Omaha,NE,516,681,USA
+486,487,Lower Midwest,NE_OMA,"Omaha, NE",Omaha,NE,680,681,USA
+487,488,Lower Midwest,NE_OMA,"Omaha, NE",Omaha,NE,681,681,USA
+488,489,Lower Midwest,NE_OMA,"Omaha, NE",Omaha,NE,683,681,USA
+489,490,Lower Midwest,NE_OMA,"Omaha, NE",Omaha,NE,684,681,USA
+490,491,Lower Midwest,NE_OMA,"Omaha, NE",Omaha,NE,685,681,USA
+491,492,Lower Midwest,NE_OMA,"Omaha, NE",Omaha,NE,686,681,USA
+492,493,Lower Midwest,NE_OMA,"Omaha, NE",Omaha,NE,687,681,USA
+493,494,Lower Midwest,NE_OMA,"Omaha, NE",Omaha,NE,688,681,USA
+494,495,Lower Midwest,NE_OMA,"Omaha, NE",Omaha,NE,689,681,USA
+495,496,New England,NH_BRI,"Bristol, NH",Bristol,NH,30,32,USA
+496,497,New England,NH_BRI,"Bristol, NH",Bristol,NH,31,32,USA
+497,498,New England,NH_BRI,"Bristol, NH",Bristol,NH,32,32,USA
+498,499,New England,NH_BRI,"Bristol, NH",Bristol,NH,33,32,USA
+499,500,New England,NH_BRI,"Bristol, NH",Bristol,NH,34,32,USA
+500,501,New England,NH_BRI,"Bristol, NH",Bristol,NH,35,32,USA
+501,502,New England,NH_BRI,"Bristol, NH",Bristol,NH,36,32,USA
+502,503,New England,NH_BRI,"Bristol, NH",Bristol,NH,37,32,USA
+503,504,New England,NH_BRI,"Bristol, NH",Bristol,NH,50,32,USA
+504,505,New England,NH_BRI,"Bristol, NH",Bristol,NH,51,32,USA
+505,506,New England,NH_BRI,"Bristol, NH",Bristol,NH,56,32,USA
+506,507,New England,NH_BRI,"Bristol, NH",Bristol,NH,57,32,USA
+507,508,New England,NH_BRI,"Bristol, NH",Bristol,NH,58,32,USA
+508,509,New England,NH_BRI,"Bristol, NH",Bristol,NH,59,32,USA
+509,510,Upper Atlantic,NJ_ELI,"Elizabeth, NJ",Elizabeth,NJ,70,72,USA
+510,511,Upper Atlantic,NJ_ELI,"Elizabeth, NJ",Elizabeth,NJ,71,72,USA
+511,512,Upper Atlantic,NJ_ELI,"Elizabeth, NJ",Elizabeth,NJ,72,72,USA
+512,513,Upper Atlantic,NJ_ELI,"Elizabeth, NJ",Elizabeth,NJ,73,72,USA
+513,514,Upper Atlantic,NJ_ELI,"Elizabeth, NJ",Elizabeth,NJ,74,72,USA
+514,515,Upper Atlantic,NJ_ELI,"Elizabeth, NJ",Elizabeth,NJ,75,72,USA
+515,516,Upper Atlantic,NJ_ELI,"Elizabeth, NJ",Elizabeth,NJ,76,72,USA
+516,517,Upper Atlantic,NJ_ELI,"Elizabeth, NJ",Elizabeth,NJ,77,72,USA
+517,518,Upper Atlantic,NJ_ELI,"Elizabeth, NJ",Elizabeth,NJ,78,72,USA
+518,519,Upper Atlantic,NJ_ELI,"Elizabeth, NJ",Elizabeth,NJ,79,72,USA
+519,520,Upper Atlantic,NJ_ELI,"Elizabeth, NJ",Elizabeth,NJ,85,72,USA
+520,521,Upper Atlantic,NJ_ELI,"Elizabeth, NJ",Elizabeth,NJ,86,72,USA
+521,522,Upper Atlantic,NJ_ELI,"Elizabeth, NJ",Elizabeth,NJ,87,72,USA
+522,523,Upper Atlantic,NJ_ELI,"Elizabeth, NJ",Elizabeth,NJ,88,72,USA
+523,524,Upper Atlantic,NJ_ELI,"Elizabeth, NJ",Elizabeth,NJ,89,72,USA
+524,525,Lower Mountain,NM_ALB,"Albuquerque, NM",Albuquerque,NM,811,871,USA
+525,526,Lower Mountain,NM_ALB,"Albuquerque, NM",Albuquerque,NM,870,871,USA
+526,527,Lower Mountain,NM_ALB,"Albuquerque, NM",Albuquerque,NM,871,871,USA
+527,528,Lower Mountain,NM_ALB,"Albuquerque, NM",Albuquerque,NM,872,871,USA
+528,529,Lower Mountain,NM_ALB,"Albuquerque, NM",Albuquerque,NM,873,871,USA
+529,530,Lower Mountain,NM_ALB,"Albuquerque, NM",Albuquerque,NM,874,871,USA
+530,531,Lower Mountain,NM_ALB,"Albuquerque, NM",Albuquerque,NM,875,871,USA
+531,532,Lower Mountain,NM_ALB,"Albuquerque, NM",Albuquerque,NM,877,871,USA
+532,533,Lower Mountain,NM_ALB,"Albuquerque, NM",Albuquerque,NM,878,871,USA
+533,534,Lower Mountain,NM_ALB,"Albuquerque, NM",Albuquerque,NM,879,871,USA
+534,535,Lower Mountain,NM_ALB,"Albuquerque, NM",Albuquerque,NM,883,871,USA
+535,536,Lower Mountain,NM_ALB,"Albuquerque, NM",Albuquerque,NM,884,871,USA
+536,537,Upper Mountain,NV_VEG,"Las Vegas, NV",Las Vegas,NV,889,891,USA
+537,538,Upper Mountain,NV_VEG,"Las Vegas, NV",Las Vegas,NV,890,891,USA
+538,539,Upper Mountain,NV_VEG,"Las Vegas, NV",Las Vegas,NV,891,891,USA
+539,540,Upper Mountain,NV_VEG,"Las Vegas, NV",Las Vegas,NV,893,891,USA
+540,541,Upper Mountain,NV_REN,"Reno, NV",Reno,NV,894,895,USA
+541,542,Upper Mountain,NV_REN,"Reno, NV",Reno,NV,895,895,USA
+542,543,Upper Mountain,NV_REN,"Reno, NV",Reno,NV,897,895,USA
+543,544,Upper Mountain,NV_REN,"Reno, NV",Reno,NV,898,895,USA
+544,545,California,NV_REN,"Reno, NV",Reno,NV,961,895,USA
+545,546,Upper Atlantic,NY_ALB,"Albany, NY",Albany,NY,52,122,USA
+546,547,Upper Atlantic,NY_ALB,"Albany, NY",Albany,NY,53,122,USA
+547,548,Upper Atlantic,NY_ALB,"Albany, NY",Albany,NY,54,122,USA
+548,549,Upper Atlantic,NY_ALB,"Albany, NY",Albany,NY,120,122,USA
+549,550,Upper Atlantic,NY_ALB,"Albany, NY",Albany,NY,121,122,USA
+550,551,Upper Atlantic,NY_ALB,"Albany, NY",Albany,NY,122,122,USA
+551,552,Upper Atlantic,NY_ALB,"Albany, NY",Albany,NY,123,122,USA
+552,553,Upper Atlantic,NY_ALB,"Albany, NY",Albany,NY,124,122,USA
+553,554,Upper Atlantic,NY_ALB,"Albany, NY",Albany,NY,125,122,USA
+554,555,Upper Atlantic,NY_ALB,"Albany, NY",Albany,NY,126,122,USA
+555,556,Upper Atlantic,NY_ALB,"Albany, NY",Albany,NY,127,122,USA
+556,557,Upper Atlantic,NY_ALB,"Albany, NY",Albany,NY,128,122,USA
+557,558,Upper Atlantic,NY_ALB,"Albany, NY",Albany,NY,129,122,USA
+558,559,Upper Atlantic,NY_BRN,"Brooklyn, NY",Brooklyn,NY,5,112,USA
+559,560,Upper Atlantic,NY_BRN,"Brooklyn, NY",Brooklyn,NY,100,112,USA
+560,561,Upper Atlantic,NY_BRN,"Brooklyn, NY",Brooklyn,NY,101,112,USA
+561,562,Upper Atlantic,NY_BRN,"Brooklyn, NY",Brooklyn,NY,102,112,USA
+562,563,Upper Atlantic,NY_BRN,"Brooklyn, NY",Brooklyn,NY,103,112,USA
+563,564,Upper Atlantic,NY_BRN,"Brooklyn, NY",Brooklyn,NY,104,112,USA
+564,565,Upper Atlantic,NY_BRN,"Brooklyn, NY",Brooklyn,NY,110,112,USA
+565,566,Upper Atlantic,NY_BRN,"Brooklyn, NY",Brooklyn,NY,111,112,USA
+566,567,Upper Atlantic,NY_BRN,"Brooklyn, NY",Brooklyn,NY,112,112,USA
+567,568,Upper Atlantic,NY_BRN,"Brooklyn, NY",Brooklyn,NY,113,112,USA
+568,569,Upper Atlantic,NY_BRN,"Brooklyn, NY",Brooklyn,NY,114,112,USA
+569,570,Upper Atlantic,NY_BRN,"Brooklyn, NY",Brooklyn,NY,115,112,USA
+570,571,Upper Atlantic,NY_BRN,"Brooklyn, NY",Brooklyn,NY,116,112,USA
+571,572,Upper Atlantic,NY_BRN,"Brooklyn, NY",Brooklyn,NY,117,112,USA
+572,573,Upper Atlantic,NY_BRN,"Brooklyn, NY",Brooklyn,NY,118,112,USA
+573,574,Upper Atlantic,NY_BRN,"Brooklyn, NY",Brooklyn,NY,119,112,USA
+574,575,Upper Atlantic,NY_BUF,"Buffalo, NY",Buffalo,NY,140,142,USA
+575,576,Upper Atlantic,NY_BUF,"Buffalo, NY",Buffalo,NY,141,142,USA
+576,577,Upper Atlantic,NY_BUF,"Buffalo, NY",Buffalo,NY,142,142,USA
+577,578,Upper Atlantic,NY_BUF,"Buffalo, NY",Buffalo,NY,143,142,USA
+578,579,Upper Atlantic,NY_BUF,"Buffalo, NY",Buffalo,NY,147,142,USA
+579,580,Upper Atlantic,NY_ELM,"Elmira, NY",Elmira,NY,137,149,USA
+580,581,Upper Atlantic,NY_ELM,"Elmira, NY",Elmira,NY,138,149,USA
+581,582,Upper Atlantic,NY_ELM,"Elmira, NY",Elmira,NY,139,149,USA
+582,583,Upper Atlantic,NY_ELM,"Elmira, NY",Elmira,NY,148,149,USA
+583,584,Upper Atlantic,NY_ELM,"Elmira, NY",Elmira,NY,149,149,USA
+584,585,Upper Atlantic,NY_ELM,"Elmira, NY",Elmira,NY,169,149,USA
+585,586,Upper Atlantic,NY_ELM,"Elmira, NY",Elmira,NY,188,149,USA
+586,587,Upper Atlantic,NY_ROC,"Rochester, NY",Rochester,NY,144,146,USA
+587,588,Upper Atlantic,NY_ROC,"Rochester, NY",Rochester,NY,145,146,USA
+588,589,Upper Atlantic,NY_ROC,"Rochester, NY",Rochester,NY,146,146,USA
+589,590,Upper Atlantic,NY_SYR,"Syracuse, NY",Syracuse,NY,130,132,USA
+590,591,Upper Atlantic,NY_SYR,"Syracuse, NY",Syracuse,NY,131,132,USA
+591,592,Upper Atlantic,NY_SYR,"Syracuse, NY",Syracuse,NY,132,132,USA
+592,593,Upper Atlantic,NY_SYR,"Syracuse, NY",Syracuse,NY,133,132,USA
+593,594,Upper Atlantic,NY_SYR,"Syracuse, NY",Syracuse,NY,134,132,USA
+594,595,Upper Atlantic,NY_SYR,"Syracuse, NY",Syracuse,NY,135,132,USA
+595,596,Upper Atlantic,NY_SYR,"Syracuse, NY",Syracuse,NY,136,132,USA
+596,597,Ohio River,OH_CIN,"Cincinnati, OH",Cincinnati,OH,450,452,USA
+597,598,Ohio River,OH_CIN,"Cincinnati, OH",Cincinnati,OH,451,452,USA
+598,599,Ohio River,OH_CIN,"Cincinnati, OH",Cincinnati,OH,452,452,USA
+599,600,Ohio River,OH_CIN,"Cincinnati, OH",Cincinnati,OH,459,452,USA
+600,601,Ohio River,OH_CIN,"Cincinnati, OH",Cincinnati,OH,470,452,USA
+601,602,Great Lakes,OH_CLE,"Cleveland, OH",Cleveland,OH,440,441,USA
+602,603,Great Lakes,OH_CLE,"Cleveland, OH",Cleveland,OH,441,441,USA
+603,604,Great Lakes,OH_CLE,"Cleveland, OH",Cleveland,OH,442,441,USA
+604,605,Great Lakes,OH_CLE,"Cleveland, OH",Cleveland,OH,443,441,USA
+605,606,Great Lakes,OH_CLE,"Cleveland, OH",Cleveland,OH,444,441,USA
+606,607,Great Lakes,OH_CLE,"Cleveland, OH",Cleveland,OH,445,441,USA
+607,608,Great Lakes,OH_CLE,"Cleveland, OH",Cleveland,OH,446,441,USA
+608,609,Great Lakes,OH_CLE,"Cleveland, OH",Cleveland,OH,447,441,USA
+609,610,Great Lakes,OH_CLE,"Cleveland, OH",Cleveland,OH,448,441,USA
+610,611,Great Lakes,OH_CLE,"Cleveland, OH",Cleveland,OH,449,441,USA
+611,612,Ohio River,OH_COL,"Columbus, OH",Columbus,OH,430,432,USA
+612,613,Ohio River,OH_COL,"Columbus, OH",Columbus,OH,431,432,USA
+613,614,Ohio River,OH_COL,"Columbus, OH",Columbus,OH,432,432,USA
+614,615,Great Lakes,OH_COL,"Columbus, OH",Columbus,OH,433,432,USA
+615,616,Ohio River,OH_COL,"Columbus, OH",Columbus,OH,437,432,USA
+616,617,Ohio River,OH_COL,"Columbus, OH",Columbus,OH,438,432,USA
+617,618,Ohio River,OH_COL,"Columbus, OH",Columbus,OH,453,432,USA
+618,619,Ohio River,OH_COL,"Columbus, OH",Columbus,OH,454,432,USA
+619,620,Ohio River,OH_COL,"Columbus, OH",Columbus,OH,455,432,USA
+620,621,Great Lakes,OH_TOL,"Toledo, OH",Toledo,OH,434,436,USA
+621,622,Great Lakes,OH_TOL,"Toledo, OH",Toledo,OH,435,436,USA
+622,623,Great Lakes,OH_TOL,"Toledo, OH",Toledo,OH,436,436,USA
+623,624,Great Lakes,OH_TOL,"Toledo, OH",Toledo,OH,458,436,USA
+624,625,South Central,OK_OKC,"Oklahoma City, OK",Oklahoma City,OK,730,731,USA
+625,626,South Central,OK_OKC,"Oklahoma City, OK",Oklahoma City,OK,731,731,USA
+626,627,South Central,OK_OKC,"Oklahoma City, OK",Oklahoma City,OK,734,731,USA
+627,628,South Central,OK_OKC,"Oklahoma City, OK",Oklahoma City,OK,735,731,USA
+628,629,South Central,OK_OKC,"Oklahoma City, OK",Oklahoma City,OK,736,731,USA
+629,630,South Central,OK_OKC,"Oklahoma City, OK",Oklahoma City,OK,737,731,USA
+630,631,South Central,OK_OKC,"Oklahoma City, OK",Oklahoma City,OK,738,731,USA
+631,632,South Central,OK_OKC,"Oklahoma City, OK",Oklahoma City,OK,745,731,USA
+632,633,South Central,OK_OKC,"Oklahoma City, OK",Oklahoma City,OK,747,731,USA
+633,634,South Central,OK_OKC,"Oklahoma City, OK",Oklahoma City,OK,748,731,USA
+634,635,South Central,OK_TUL,"Tulsa, OK",Tulsa,OK,740,741,USA
+635,636,South Central,OK_TUL,"Tulsa, OK",Tulsa,OK,741,741,USA
+636,637,South Central,OK_TUL,"Tulsa, OK",Tulsa,OK,743,741,USA
+637,638,South Central,OK_TUL,"Tulsa, OK",Tulsa,OK,744,741,USA
+638,639,South Central,OK_TUL,"Tulsa, OK",Tulsa,OK,746,741,USA
+639,640,California,OR_MED,"Medford, OR",Medford,OR,955,975,USA
+640,641,California,OR_MED,"Medford, OR",Medford,OR,960,975,USA
+641,642,Pacific Northwest,OR_MED,"Medford, OR",Medford,OR,974,975,USA
+642,643,Pacific Northwest,OR_MED,"Medford, OR",Medford,OR,975,975,USA
+643,644,Pacific Northwest,OR_MED,"Medford, OR",Medford,OR,976,975,USA
+644,645,Pacific Northwest,OR_MED,"Medford, OR",Medford,OR,977,975,USA
+645,646,Pacific Northwest,OR_PEN,"Pendleton, OR",Pendleton,OR,978,978,USA
+646,647,Pacific Northwest,OR_PEN,"Pendleton, OR",Pendleton,OR,989,978,USA
+647,648,Pacific Northwest,OR_PEN,"Pendleton, OR",Pendleton,OR,993,978,USA
+648,649,Pacific Northwest,OR_POR,"Portland, OR",Portland,OR,970,972,USA
+649,650,Pacific Northwest,OR_POR,"Portland, OR",Portland,OR,971,972,USA
+650,651,Pacific Northwest,OR_POR,"Portland, OR",Portland,OR,972,972,USA
+651,652,Pacific Northwest,OR_POR,"Portland, OR",Portland,OR,973,972,USA
+652,653,Pacific Northwest,OR_POR,"Portland, OR",Portland,OR,986,972,USA
+653,654,Upper Atlantic,PA_ALL,"Allentown, PA",Allentown,PA,180,181,USA
+654,655,Upper Atlantic,PA_ALL,"Allentown, PA",Allentown,PA,181,181,USA
+655,656,Upper Atlantic,PA_ALL,"Allentown, PA",Allentown,PA,182,181,USA
+656,657,Upper Atlantic,PA_ALL,"Allentown, PA",Allentown,PA,183,181,USA
+657,658,Upper Atlantic,PA_ALL,"Allentown, PA",Allentown,PA,184,181,USA
+658,659,Upper Atlantic,PA_ALL,"Allentown, PA",Allentown,PA,185,181,USA
+659,660,Upper Atlantic,PA_ALL,"Allentown, PA",Allentown,PA,186,181,USA
+660,661,Upper Atlantic,PA_ALL,"Allentown, PA",Allentown,PA,187,181,USA
+661,662,Upper Atlantic,PA_ALL,"Allentown, PA",Allentown,PA,189,181,USA
+662,663,Upper Atlantic,PA_ERI,"Erie, PA",Erie,PA,163,165,USA
+663,664,Upper Atlantic,PA_ERI,"Erie, PA",Erie,PA,164,165,USA
+664,665,Upper Atlantic,PA_ERI,"Erie, PA",Erie,PA,165,165,USA
+665,666,Upper Atlantic,PA_ERI,"Erie, PA",Erie,PA,167,165,USA
+666,667,Upper Atlantic,PA_HAR,"Harrisburg, PA",Harrisburg,PA,166,171,USA
+667,668,Upper Atlantic,PA_HAR,"Harrisburg, PA",Harrisburg,PA,168,171,USA
+668,669,Upper Atlantic,PA_HAR,"Harrisburg, PA",Harrisburg,PA,170,171,USA
+669,670,Upper Atlantic,PA_HAR,"Harrisburg, PA",Harrisburg,PA,171,171,USA
+670,671,Upper Atlantic,PA_HAR,"Harrisburg, PA",Harrisburg,PA,172,171,USA
+671,672,Upper Atlantic,PA_HAR,"Harrisburg, PA",Harrisburg,PA,173,171,USA
+672,673,Upper Atlantic,PA_HAR,"Harrisburg, PA",Harrisburg,PA,174,171,USA
+673,674,Upper Atlantic,PA_HAR,"Harrisburg, PA",Harrisburg,PA,175,171,USA
+674,675,Upper Atlantic,PA_HAR,"Harrisburg, PA",Harrisburg,PA,176,171,USA
+675,676,Upper Atlantic,PA_HAR,"Harrisburg, PA",Harrisburg,PA,177,171,USA
+676,677,Upper Atlantic,PA_HAR,"Harrisburg, PA",Harrisburg,PA,178,171,USA
+677,678,Upper Atlantic,PA_HAR,"Harrisburg, PA",Harrisburg,PA,179,171,USA
+678,679,Upper Atlantic,PA_PHI,"Philadelphia, PA",Philadelphia,PA,80,191,USA
+679,680,Upper Atlantic,PA_PHI,"Philadelphia, PA",Philadelphia,PA,81,191,USA
+680,681,Upper Atlantic,PA_PHI,"Philadelphia, PA",Philadelphia,PA,82,191,USA
+681,682,Upper Atlantic,PA_PHI,"Philadelphia, PA",Philadelphia,PA,83,191,USA
+682,683,Upper Atlantic,PA_PHI,"Philadelphia, PA",Philadelphia,PA,84,191,USA
+683,684,Upper Atlantic,PA_PHI,"Philadelphia, PA",Philadelphia,PA,190,191,USA
+684,685,Upper Atlantic,PA_PHI,"Philadelphia, PA",Philadelphia,PA,191,191,USA
+685,686,Upper Atlantic,PA_PHI,"Philadelphia, PA",Philadelphia,PA,192,191,USA
+686,687,Upper Atlantic,PA_PHI,"Philadelphia, PA",Philadelphia,PA,193,191,USA
+687,688,Upper Atlantic,PA_PHI,"Philadelphia, PA",Philadelphia,PA,194,191,USA
+688,689,Upper Atlantic,PA_PHI,"Philadelphia, PA",Philadelphia,PA,195,191,USA
+689,690,Upper Atlantic,PA_PHI,"Philadelphia, PA",Philadelphia,PA,196,191,USA
+690,691,Upper Atlantic,PA_PIT,"Pittsburgh, PA",Pittsburgh,PA,150,152,USA
+691,692,Upper Atlantic,PA_PIT,"Pittsburgh, PA",Pittsburgh,PA,151,152,USA
+692,693,Upper Atlantic,PA_PIT,"Pittsburgh, PA",Pittsburgh,PA,152,152,USA
+693,694,Upper Atlantic,PA_PIT,"Pittsburgh, PA",Pittsburgh,PA,153,152,USA
+694,695,Upper Atlantic,PA_PIT,"Pittsburgh, PA",Pittsburgh,PA,154,152,USA
+695,696,Upper Atlantic,PA_PIT,"Pittsburgh, PA",Pittsburgh,PA,155,152,USA
+696,697,Upper Atlantic,PA_PIT,"Pittsburgh, PA",Pittsburgh,PA,156,152,USA
+697,698,Upper Atlantic,PA_PIT,"Pittsburgh, PA",Pittsburgh,PA,157,152,USA
+698,699,Upper Atlantic,PA_PIT,"Pittsburgh, PA",Pittsburgh,PA,158,152,USA
+699,700,Upper Atlantic,PA_PIT,"Pittsburgh, PA",Pittsburgh,PA,159,152,USA
+700,701,Upper Atlantic,PA_PIT,"Pittsburgh, PA",Pittsburgh,PA,160,152,USA
+701,702,Upper Atlantic,PA_PIT,"Pittsburgh, PA",Pittsburgh,PA,161,152,USA
+702,703,Upper Atlantic,PA_PIT,"Pittsburgh, PA",Pittsburgh,PA,162,152,USA
+703,704,Lower Atlantic,PA_PIT,"Pittsburgh, PA",Pittsburgh,PA,260,152,USA
+704,705,Lower Atlantic,PA_PIT,"Pittsburgh, PA",Pittsburgh,PA,265,152,USA
+705,706,Ohio River,PA_PIT,"Pittsburgh, PA",Pittsburgh,PA,439,152,USA
+706,707,Carolinas,SC_CHA,"N Charleston, SC",N Charleston,SC,294,294,USA
+707,708,Carolinas,SC_COL,"Columbia, SC",Columbia,SC,290,292,USA
+708,709,Carolinas,SC_COL,"Columbia, SC",Columbia,SC,291,292,USA
+709,710,Carolinas,SC_COL,"Columbia, SC",Columbia,SC,292,292,USA
+710,711,Carolinas,SC_COL,"Columbia, SC",Columbia,SC,295,292,USA
+711,712,Carolinas,SC_GRE,"Greenville, SC",Greenville,SC,287,296,USA
+712,713,Carolinas,SC_GRE,"Greenville, SC",Greenville,SC,288,296,USA
+713,714,Carolinas,SC_GRE,"Greenville, SC",Greenville,SC,293,296,USA
+714,715,Carolinas,SC_GRE,"Greenville, SC",Greenville,SC,296,296,USA
+715,716,Carolinas,SC_GRE,"Greenville, SC",Greenville,SC,298,296,USA
+716,717,Southeast,SC_GRE,"Greenville, SC",Greenville,SC,308,296,USA
+717,718,Southeast,SC_GRE,"Greenville, SC",Greenville,SC,309,296,USA
+718,719,Upper Midwest,SD_RAP,"Rapid City, SD",Rapid City,SD,575,577,USA
+719,720,Upper Midwest,SD_RAP,"Rapid City, SD",Rapid City,SD,576,577,USA
+720,721,Upper Midwest,SD_RAP,"Rapid City, SD",Rapid City,SD,577,577,USA
+721,722,Upper Mountain,SD_RAP,"Rapid City, SD",Rapid City,SD,827,577,USA
+722,723,Upper Mountain,SD_RAP,"Rapid City, SD",Rapid City,SD,826,577,USA
+723,724,Upper Midwest,SD_SXF,"Sioux Falls, SD",Sioux Falls,SD,510,571,USA
+724,725,Upper Midwest,SD_SXF,"Sioux Falls, SD",Sioux Falls,SD,511,571,USA
+725,726,Upper Midwest,SD_SXF,"Sioux Falls, SD",Sioux Falls,SD,512,571,USA
+726,727,Upper Midwest,SD_SXF,"Sioux Falls, SD",Sioux Falls,SD,513,571,USA
+727,728,Upper Midwest,SD_SXF,"Sioux Falls, SD",Sioux Falls,SD,561,571,USA
+728,729,Upper Midwest,SD_SXF,"Sioux Falls, SD",Sioux Falls,SD,562,571,USA
+729,730,Upper Midwest,SD_SXF,"Sioux Falls, SD",Sioux Falls,SD,570,571,USA
+730,731,Upper Midwest,SD_SXF,"Sioux Falls, SD",Sioux Falls,SD,571,571,USA
+731,732,Upper Midwest,SD_SXF,"Sioux Falls, SD",Sioux Falls,SD,572,571,USA
+732,733,Upper Midwest,SD_SXF,"Sioux Falls, SD",Sioux Falls,SD,573,571,USA
+733,734,Upper Midwest,SD_SXF,"Sioux Falls, SD",Sioux Falls,SD,574,571,USA
+734,735,Carolinas,TN_CHA,"Chattanooga, TN",Chattanooga,TN,289,374,USA
+735,736,Southeast,TN_CHA,"Chattanooga, TN",Chattanooga,TN,307,374,USA
+736,737,Southeast,TN_CHA,"Chattanooga, TN",Chattanooga,TN,359,374,USA
+737,738,Southeast,TN_CHA,"Chattanooga, TN",Chattanooga,TN,373,374,USA
+738,739,Southeast,TN_CHA,"Chattanooga, TN",Chattanooga,TN,374,374,USA
+739,740,Lower Atlantic,TN_KNO,"Knoxville, TN",Knoxville,TN,242,379,USA
+740,741,Southeast,TN_KNO,"Knoxville, TN",Knoxville,TN,376,379,USA
+741,742,Southeast,TN_KNO,"Knoxville, TN",Knoxville,TN,377,379,USA
+742,743,Southeast,TN_KNO,"Knoxville, TN",Knoxville,TN,378,379,USA
+743,744,Southeast,TN_KNO,"Knoxville, TN",Knoxville,TN,379,379,USA
+744,745,Ohio River,TN_KNO,"Knoxville, TN",Knoxville,TN,407,379,USA
+745,746,Ohio River,TN_KNO,"Knoxville, TN",Knoxville,TN,408,379,USA
+746,747,Ohio River,TN_KNO,"Knoxville, TN",Knoxville,TN,409,379,USA
+747,748,Ohio River,TN_KNO,"Knoxville, TN",Knoxville,TN,425,379,USA
+748,749,Ohio River,TN_KNO,"Knoxville, TN",Knoxville,TN,426,379,USA
+749,750,Southeast,TN_MEM,"Memphis, TN",Memphis,TN,375,381,USA
+750,751,Southeast,TN_MEM,"Memphis, TN",Memphis,TN,380,381,USA
+751,752,Southeast,TN_MEM,"Memphis, TN",Memphis,TN,381,381,USA
+752,753,Southeast,TN_MEM,"Memphis, TN",Memphis,TN,382,381,USA
+753,754,Southeast,TN_MEM,"Memphis, TN",Memphis,TN,383,381,USA
+754,755,Southeast,TN_MEM,"Memphis, TN",Memphis,TN,386,381,USA
+755,756,South Central,TN_MEM,"Memphis, TN",Memphis,TN,723,381,USA
+756,757,South Central,TN_MEM,"Memphis, TN",Memphis,TN,724,381,USA
+757,758,Southeast,TN_NAS,"Nashville, TN",Nashville,TN,370,372,USA
+758,759,Southeast,TN_NAS,"Nashville, TN",Nashville,TN,371,372,USA
+759,760,Southeast,TN_NAS,"Nashville, TN",Nashville,TN,372,372,USA
+760,761,Southeast,TN_NAS,"Nashville, TN",Nashville,TN,385,372,USA
+761,762,South Central,TX_AMA,"Amarillo, TX",Amarillo,TX,739,791,USA
+762,763,South Central,TX_AMA,"Amarillo, TX",Amarillo,TX,790,791,USA
+763,764,South Central,TX_AMA,"Amarillo, TX",Amarillo,TX,791,791,USA
+764,765,South Central,TX_AUS,"Austin, TX",Austin,TX,733,787,USA
+765,766,South Central,TX_AUS,"Austin, TX",Austin,TX,765,787,USA
+766,767,South Central,TX_AUS,"Austin, TX",Austin,TX,768,787,USA
+767,768,South Central,TX_AUS,"Austin, TX",Austin,TX,786,787,USA
+768,769,South Central,TX_AUS,"Austin, TX",Austin,TX,787,787,USA
+769,770,South Central,TX_AUS,"Austin, TX",Austin,TX,789,787,USA
+770,771,South Central,TX_DAL,"Dallas, TX",Dallas,TX,750,752,USA
+771,772,South Central,TX_DAL,"Dallas, TX",Dallas,TX,751,752,USA
+772,773,South Central,TX_DAL,"Dallas, TX",Dallas,TX,752,752,USA
+773,774,South Central,TX_DAL,"Dallas, TX",Dallas,TX,753,752,USA
+774,775,South Central,TX_DAL,"Dallas, TX",Dallas,TX,754,752,USA
+775,776,South Central,TX_DAL,"Dallas, TX",Dallas,TX,757,752,USA
+776,777,South Central,TX_DAL,"Dallas, TX",Dallas,TX,758,752,USA
+777,778,South Central,TX_ELP,"El Paso, TX",El Paso,TX,798,799,USA
+778,779,South Central,TX_ELP,"El Paso, TX",El Paso,TX,799,799,USA
+779,780,Lower Mountain,TX_ELP,"El Paso, TX",El Paso,TX,880,799,USA
+780,781,South Central,TX_ELP,"El Paso, TX",El Paso,TX,885,799,USA
+781,782,South Central,TX_FTW,"Ft Worth, TX",Ft Worth,TX,760,761,USA
+782,783,South Central,TX_FTW,"Ft Worth, TX",Ft Worth,TX,761,761,USA
+783,784,South Central,TX_FTW,"Ft Worth, TX",Ft Worth,TX,762,761,USA
+784,785,South Central,TX_FTW,"Ft Worth, TX",Ft Worth,TX,763,761,USA
+785,786,South Central,TX_FTW,"Ft Worth, TX",Ft Worth,TX,764,761,USA
+786,787,South Central,TX_FTW,"Ft Worth, TX",Ft Worth,TX,766,761,USA
+787,788,South Central,TX_FTW,"Ft Worth, TX",Ft Worth,TX,767,761,USA
+788,789,South Central,TX_HOU,"Houston, TX",Houston,TX,770,770,USA
+789,790,South Central,TX_HOU,"Houston, TX",Houston,TX,772,770,USA
+790,791,South Central,TX_HOU,"Houston, TX",Houston,TX,773,770,USA
+791,792,South Central,TX_HOU,"Houston, TX",Houston,TX,774,770,USA
+792,793,South Central,TX_HOU,"Houston, TX",Houston,TX,775,770,USA
+793,794,South Central,TX_HOU,"Houston, TX",Houston,TX,776,770,USA
+794,795,South Central,TX_HOU,"Houston, TX",Houston,TX,777,770,USA
+795,796,South Central,TX_HOU,"Houston, TX",Houston,TX,778,770,USA
+796,797,South Central,TX_LAR,"Laredo, TX",Laredo,TX,780,780,USA
+797,798,South Central,TX_LAR,"Laredo, TX",Laredo,TX,788,780,USA
+798,799,South Central,TX_LUB,"Lubbock, TX",Lubbock,TX,769,794,USA
+799,800,South Central,TX_LUB,"Lubbock, TX",Lubbock,TX,792,794,USA
+800,801,South Central,TX_LUB,"Lubbock, TX",Lubbock,TX,793,794,USA
+801,802,South Central,TX_LUB,"Lubbock, TX",Lubbock,TX,794,794,USA
+802,803,South Central,TX_LUB,"Lubbock, TX",Lubbock,TX,795,794,USA
+803,804,South Central,TX_LUB,"Lubbock, TX",Lubbock,TX,796,794,USA
+804,805,South Central,TX_LUB,"Lubbock, TX",Lubbock,TX,797,794,USA
+805,806,Lower Mountain,TX_LUB,"Lubbock, TX",Lubbock,TX,881,794,USA
+806,807,Lower Mountain,TX_LUB,"Lubbock, TX",Lubbock,TX,882,794,USA
+807,808,South Central,TX_MCA,"McAllen, TX",McAllen,TX,783,785,USA
+808,809,South Central,TX_MCA,"McAllen, TX",McAllen,TX,784,785,USA
+809,810,South Central,TX_MCA,"McAllen, TX",McAllen,TX,785,785,USA
+810,811,South Central,TX_ANT,"San Antonio, TX",San Antonio,TX,779,782,USA
+811,812,South Central,TX_ANT,"San Antonio, TX",San Antonio,TX,781,782,USA
+812,813,South Central,TX_ANT,"San Antonio, TX",San Antonio,TX,782,782,USA
+813,814,South Central,TX_TEX,"Texarkana, TX",Texarkana,TX,718,755,USA
+814,815,South Central,TX_TEX,"Texarkana, TX",Texarkana,TX,755,755,USA
+815,816,Lower Mountain,UT_SLC,"Salt Lake City, UT",Salt Lake City,UT,840,841,USA
+816,817,Lower Mountain,UT_SLC,"Salt Lake City, UT",Salt Lake City,UT,841,841,USA
+817,818,Lower Mountain,UT_SLC,"Salt Lake City, UT",Salt Lake City,UT,842,841,USA
+818,819,Lower Mountain,UT_SLC,"Salt Lake City, UT",Salt Lake City,UT,843,841,USA
+819,820,Lower Mountain,UT_SLC,"Salt Lake City, UT",Salt Lake City,UT,844,841,USA
+820,821,Lower Mountain,UT_SLC,"Salt Lake City, UT",Salt Lake City,UT,846,841,USA
+821,822,Lower Mountain,UT_SLC,"Salt Lake City, UT",Salt Lake City,UT,847,841,USA
+822,823,Lower Atlantic,VA_NOR,"Norfolk, VA",Norfolk,VA,233,235,USA
+823,824,Lower Atlantic,VA_NOR,"Norfolk, VA",Norfolk,VA,234,235,USA
+824,825,Lower Atlantic,VA_NOR,"Norfolk, VA",Norfolk,VA,235,235,USA
+825,826,Lower Atlantic,VA_NOR,"Norfolk, VA",Norfolk,VA,236,235,USA
+826,827,Lower Atlantic,VA_NOR,"Norfolk, VA",Norfolk,VA,237,235,USA
+827,828,Carolinas,VA_NOR,"Norfolk, VA",Norfolk,VA,279,235,USA
+828,829,Lower Atlantic,VA_RCH,"Richmond, VA",Richmond,VA,224,232,USA
+829,830,Lower Atlantic,VA_RCH,"Richmond, VA",Richmond,VA,225,232,USA
+830,831,Lower Atlantic,VA_RCH,"Richmond, VA",Richmond,VA,229,232,USA
+831,832,Lower Atlantic,VA_RCH,"Richmond, VA",Richmond,VA,230,232,USA
+832,833,Lower Atlantic,VA_RCH,"Richmond, VA",Richmond,VA,231,232,USA
+833,834,Lower Atlantic,VA_RCH,"Richmond, VA",Richmond,VA,232,232,USA
+834,835,Lower Atlantic,VA_RCH,"Richmond, VA",Richmond,VA,238,232,USA
+835,836,Lower Atlantic,VA_ROA,"Roanoke, VA",Roanoke,VA,239,240,USA
+836,837,Lower Atlantic,VA_ROA,"Roanoke, VA",Roanoke,VA,240,240,USA
+837,838,Lower Atlantic,VA_ROA,"Roanoke, VA",Roanoke,VA,241,240,USA
+838,839,Lower Atlantic,VA_ROA,"Roanoke, VA",Roanoke,VA,243,240,USA
+839,840,Lower Atlantic,VA_ROA,"Roanoke, VA",Roanoke,VA,244,240,USA
+840,841,Lower Atlantic,VA_ROA,"Roanoke, VA",Roanoke,VA,245,240,USA
+841,842,Lower Atlantic,VA_WIN,"Winchester, VA",Winchester,VA,215,226,USA
+842,843,Lower Atlantic,VA_WIN,"Winchester, VA",Winchester,VA,217,226,USA
+843,844,Lower Atlantic,VA_WIN,"Winchester, VA",Winchester,VA,226,226,USA
+844,845,Lower Atlantic,VA_WIN,"Winchester, VA",Winchester,VA,228,226,USA
+845,846,Lower Atlantic,VA_WIN,"Winchester, VA",Winchester,VA,254,226,USA
+846,847,Lower Atlantic,VA_WIN,"Winchester, VA",Winchester,VA,267,226,USA
+847,848,Lower Atlantic,VA_WIN,"Winchester, VA",Winchester,VA,268,226,USA
+848,849,Pacific Northwest,WA_SEA,"Seattle, WA",Seattle,WA,980,981,USA
+849,850,Pacific Northwest,WA_SEA,"Seattle, WA",Seattle,WA,981,981,USA
+850,851,Pacific Northwest,WA_SEA,"Seattle, WA",Seattle,WA,982,981,USA
+851,852,Pacific Northwest,WA_SEA,"Seattle, WA",Seattle,WA,983,981,USA
+852,853,Pacific Northwest,WA_SEA,"Seattle, WA",Seattle,WA,984,981,USA
+853,854,Pacific Northwest,WA_SEA,"Seattle, WA",Seattle,WA,985,981,USA
+854,855,Upper Mountain,WA_SPO,"Spokane, WA",Spokane,WA,835,992,USA
+855,856,Upper Mountain,WA_SPO,"Spokane, WA",Spokane,WA,838,992,USA
+856,857,Pacific Northwest,WA_SPO,"Spokane, WA",Spokane,WA,988,992,USA
+857,858,Pacific Northwest,WA_SPO,"Spokane, WA",Spokane,WA,990,992,USA
+858,859,Pacific Northwest,WA_SPO,"Spokane, WA",Spokane,WA,991,992,USA
+859,860,Pacific Northwest,WA_SPO,"Spokane, WA",Spokane,WA,992,992,USA
+860,861,Pacific Northwest,WA_SPO,"Spokane, WA",Spokane,WA,994,992,USA
+861,862,Great Lakes,WI_EAU,"Eau Claire, WI",Eau Claire,WI,540,547,USA
+862,863,Great Lakes,WI_EAU,"Eau Claire, WI",Eau Claire,WI,546,547,USA
+863,864,Great Lakes,WI_EAU,"Eau Claire, WI",Eau Claire,WI,547,547,USA
+864,865,Upper Midwest,WI_EAU,"Eau Claire, WI",Eau Claire,WI,559,547,USA
+865,866,Great Lakes,WI_GRE,"Green Bay, WI",Green Bay,WI,541,543,USA
+866,867,Great Lakes,WI_GRE,"Green Bay, WI",Green Bay,WI,542,543,USA
+867,868,Great Lakes,WI_GRE,"Green Bay, WI",Green Bay,WI,543,543,USA
+868,869,Great Lakes,WI_GRE,"Green Bay, WI",Green Bay,WI,544,543,USA
+869,870,Great Lakes,WI_GRE,"Green Bay, WI",Green Bay,WI,549,543,USA
+870,871,Great Lakes,WI_MAD,"Madison, WI",Madison,WI,535,537,USA
+871,872,Great Lakes,WI_MAD,"Madison, WI",Madison,WI,537,537,USA
+872,873,Great Lakes,WI_MAD,"Madison, WI",Madison,WI,539,537,USA
+873,874,Great Lakes,WI_MIL,"Milwaukee, WI",Milwaukee,WI,530,532,USA
+874,875,Great Lakes,WI_MIL,"Milwaukee, WI",Milwaukee,WI,531,532,USA
+875,876,Great Lakes,WI_MIL,"Milwaukee, WI",Milwaukee,WI,532,532,USA
+876,877,Great Lakes,WI_MIL,"Milwaukee, WI",Milwaukee,WI,534,532,USA
+877,878,Lower Atlantic,WV_CHA,"Charleston, WV",Charleston,WV,246,253,USA
+878,879,Lower Atlantic,WV_CHA,"Charleston, WV",Charleston,WV,247,253,USA
+879,880,Lower Atlantic,WV_CHA,"Charleston, WV",Charleston,WV,248,253,USA
+880,881,Lower Atlantic,WV_CHA,"Charleston, WV",Charleston,WV,249,253,USA
+881,882,Lower Atlantic,WV_CHA,"Charleston, WV",Charleston,WV,250,253,USA
+882,883,Lower Atlantic,WV_CHA,"Charleston, WV",Charleston,WV,251,253,USA
+883,884,Lower Atlantic,WV_CHA,"Charleston, WV",Charleston,WV,252,253,USA
+884,885,Lower Atlantic,WV_CHA,"Charleston, WV",Charleston,WV,253,253,USA
+885,886,Lower Atlantic,WV_CHA,"Charleston, WV",Charleston,WV,256,253,USA
+886,887,Lower Atlantic,WV_CHA,"Charleston, WV",Charleston,WV,258,253,USA
+887,888,Lower Atlantic,WV_CHA,"Charleston, WV",Charleston,WV,259,253,USA
+888,889,Lower Atlantic,WV_CHA,"Charleston, WV",Charleston,WV,261,253,USA
+889,890,Lower Atlantic,WV_CHA,"Charleston, WV",Charleston,WV,262,253,USA
+890,891,Lower Atlantic,WV_CHA,"Charleston, WV",Charleston,WV,263,253,USA
+891,892,Lower Atlantic,WV_CHA,"Charleston, WV",Charleston,WV,264,253,USA
+892,893,Lower Atlantic,WV_CHA,"Charleston, WV",Charleston,WV,266,253,USA
+893,894,Ohio River,WV_CHA,"Charleston, WV",Charleston,WV,415,253,USA
+894,895,Ohio River,WV_CHA,"Charleston, WV",Charleston,WV,416,253,USA
+895,896,Ohio River,WV_CHA,"Charleston, WV",Charleston,WV,457,253,USA
+896,897,Lower Atlantic,WV_HUN,"Huntington, WV",Huntington,WV,255,257,USA
+897,898,Lower Atlantic,WV_HUN,"Huntington, WV",Huntington,WV,257,257,USA
+898,899,Ohio River,WV_HUN,"Huntington, WV",Huntington,WV,411,257,USA
+899,900,Ohio River,WV_HUN,"Huntington, WV",Huntington,WV,412,257,USA
+900,901,Ohio River,WV_HUN,"Huntington, WV",Huntington,WV,456,257,USA
+901,902,Upper Mountain,WY_GRE,"Green River, WY",Green River,WY,823,829,USA
+902,903,Upper Mountain,WY_GRE,"Green River, WY",Green River,WY,825,829,USA
+903,904,Upper Mountain,WY_GRE,"Green River, WY",Green River,WY,829,829,USA
+904,905,Upper Mountain,WY_GRE,"Green River, WY",Green River,WY,831,829,USA
+905,906,Canada East,NF_STJ,"St Johns, NF",St Johns,NF,A0,A1,CAN
+906,907,Canada East,NF_STJ,"St Johns, NF",St Johns,NF,A1,A1,CAN
+907,908,Canada East,NF_STJ,"St Johns, NF",St Johns,NF,A2,A1,CAN
+908,909,Canada East,NF_STJ,"St Johns, NF",St Johns,NF,A5,A1,CAN
+909,910,Canada East,NF_STJ,"St Johns, NF",St Johns,NF,A8,A1,CAN
+910,911,Canada East,NS_HAL,"Halifax, NS",Halifax,NS,B0,B3,CAN
+911,912,Canada East,NS_HAL,"Halifax, NS",Halifax,NS,B1,B3,CAN
+912,913,Canada East,NS_HAL,"Halifax, NS",Halifax,NS,B2,B3,CAN
+913,914,Canada East,NS_HAL,"Halifax, NS",Halifax,NS,B3,B3,CAN
+914,915,Canada East,NS_HAL,"Halifax, NS",Halifax,NS,B4,B3,CAN
+915,916,Canada East,NS_HAL,"Halifax, NS",Halifax,NS,B5,B3,CAN
+916,917,Canada East,NS_HAL,"Halifax, NS",Halifax,NS,B6,B3,CAN
+917,918,Canada East,NS_HAL,"Halifax, NS",Halifax,NS,B9,B3,CAN
+918,919,Canada East,NB_MON,"Moncton, NB",Moncton,NB,E0,E1,CAN
+919,920,Canada East,NB_MON,"Moncton, NB",Moncton,NB,E1,E1,CAN
+920,921,Canada East,NB_MON,"Moncton, NB",Moncton,NB,E2,E1,CAN
+921,922,Canada East,NB_MON,"Moncton, NB",Moncton,NB,E3,E1,CAN
+922,923,Canada East,NB_MON,"Moncton, NB",Moncton,NB,E4,E1,CAN
+923,924,Canada East,NB_MON,"Moncton, NB",Moncton,NB,E5,E1,CAN
+924,925,Canada East,NB_MON,"Moncton, NB",Moncton,NB,E6,E1,CAN
+925,926,Canada East,NB_MON,"Moncton, NB",Moncton,NB,E7,E1,CAN
+926,927,Canada East,NB_MON,"Moncton, NB",Moncton,NB,E8,E1,CAN
+927,928,Canada East,NB_MON,"Moncton, NB",Moncton,NB,E9,E1,CAN
+928,929,Canada East,NB_MON,"Moncton, NB",Moncton,NB,C0,E1,CAN
+929,930,Canada East,NB_MON,"Moncton, NB",Moncton,NB,C1,E1,CAN
+930,931,Canada Central,PQ_QUE,"Quebec, PQ",Quebec,PQ,G0,G1,CAN
+931,932,Canada Central,PQ_QUE,"Quebec, PQ",Quebec,PQ,G1,G1,CAN
+932,933,Canada Central,PQ_QUE,"Quebec, PQ",Quebec,PQ,G2,G1,CAN
+933,934,Canada Central,PQ_QUE,"Quebec, PQ",Quebec,PQ,G3,G1,CAN
+934,935,Canada Central,PQ_QUE,"Quebec, PQ",Quebec,PQ,G4,G1,CAN
+935,936,Canada Central,PQ_QUE,"Quebec, PQ",Quebec,PQ,G5,G1,CAN
+936,937,Canada Central,PQ_QUE,"Quebec, PQ",Quebec,PQ,G6,G1,CAN
+937,938,Canada Central,PQ_QUE,"Quebec, PQ",Quebec,PQ,G7,G1,CAN
+938,939,Canada Central,PQ_QUE,"Quebec, PQ",Quebec,PQ,G8,G1,CAN
+939,940,Canada Central,PQ_QUE,"Quebec, PQ",Quebec,PQ,G9,G1,CAN
+940,941,Canada Central,PQ_MON,"Montreal, PQ",Montreal,PQ,H0,H2,CAN
+941,942,Canada Central,PQ_MON,"Montreal, PQ",Montreal,PQ,H1,H2,CAN
+942,943,Canada Central,PQ_MON,"Montreal, PQ",Montreal,PQ,H2,H2,CAN
+943,944,Canada Central,PQ_MON,"Montreal, PQ",Montreal,PQ,H3,H2,CAN
+944,945,Canada Central,PQ_MON,"Montreal, PQ",Montreal,PQ,H4,H2,CAN
+945,946,Canada Central,PQ_MON,"Montreal, PQ",Montreal,PQ,H5,H2,CAN
+946,947,Canada Central,PQ_MON,"Montreal, PQ",Montreal,PQ,H7,H2,CAN
+947,948,Canada Central,PQ_MON,"Montreal, PQ",Montreal,PQ,H8,H2,CAN
+948,949,Canada Central,PQ_MON,"Montreal, PQ",Montreal,PQ,H9,H2,CAN
+949,950,Canada Central,PQ_MON,"Montreal, PQ",Montreal,PQ,J0,H2,CAN
+950,951,Canada Central,PQ_MON,"Montreal, PQ",Montreal,PQ,J1,H2,CAN
+951,952,Canada Central,PQ_MON,"Montreal, PQ",Montreal,PQ,J2,H2,CAN
+952,953,Canada Central,PQ_MON,"Montreal, PQ",Montreal,PQ,J3,H2,CAN
+953,954,Canada Central,PQ_MON,"Montreal, PQ",Montreal,PQ,J4,H2,CAN
+954,955,Canada Central,PQ_MON,"Montreal, PQ",Montreal,PQ,J5,H2,CAN
+955,956,Canada Central,PQ_MON,"Montreal, PQ",Montreal,PQ,J6,H2,CAN
+956,957,Canada Central,PQ_MON,"Montreal, PQ",Montreal,PQ,J7,H2,CAN
+957,958,Canada Central,PQ_MON,"Montreal, PQ",Montreal,PQ,J8,H2,CAN
+958,959,Canada Central,PQ_MON,"Montreal, PQ",Montreal,PQ,J9,H2,CAN
+959,960,Canada Central,ON_OTT,"Ottawa, ON",Ottawa,ON,K0,K2,CAN
+960,961,Canada Central,ON_OTT,"Ottawa, ON",Ottawa,ON,K1,K2,CAN
+961,962,Canada Central,ON_OTT,"Ottawa, ON",Ottawa,ON,K2,K2,CAN
+962,963,Canada Central,ON_OTT,"Ottawa, ON",Ottawa,ON,K4,K2,CAN
+963,964,Canada Central,ON_OTT,"Ottawa, ON",Ottawa,ON,K6,K2,CAN
+964,965,Canada Central,ON_OTT,"Ottawa, ON",Ottawa,ON,K7,K2,CAN
+965,966,Canada Central,ON_OTT,"Ottawa, ON",Ottawa,ON,K8,K2,CAN
+966,967,Canada Central,ON_OTT,"Ottawa, ON",Ottawa,ON,K9,K2,CAN
+967,968,Canada Central,ON_TOR,"Toronto, ON",Toronto,ON,L0,M5,CAN
+968,969,Canada Central,ON_TOR,"Toronto, ON",Toronto,ON,L1,M5,CAN
+969,970,Canada Central,ON_TOR,"Toronto, ON",Toronto,ON,L2,M5,CAN
+970,971,Canada Central,ON_TOR,"Toronto, ON",Toronto,ON,L3,M5,CAN
+971,972,Canada Central,ON_TOR,"Toronto, ON",Toronto,ON,L4,M5,CAN
+972,973,Canada Central,ON_TOR,"Toronto, ON",Toronto,ON,L5,M5,CAN
+973,974,Canada Central,ON_TOR,"Toronto, ON",Toronto,ON,L6,M5,CAN
+974,975,Canada Central,ON_TOR,"Toronto, ON",Toronto,ON,L7,M5,CAN
+975,976,Canada Central,ON_TOR,"Toronto, ON",Toronto,ON,L8,M5,CAN
+976,977,Canada Central,ON_TOR,"Toronto, ON",Toronto,ON,L9,M5,CAN
+977,978,Canada Central,ON_TOR,"Toronto, ON",Toronto,ON,M0,M5,CAN
+978,979,Canada Central,ON_TOR,"Toronto, ON",Toronto,ON,M1,M5,CAN
+979,980,Canada Central,ON_TOR,"Toronto, ON",Toronto,ON,M2,M5,CAN
+980,981,Canada Central,ON_TOR,"Toronto, ON",Toronto,ON,M3,M5,CAN
+981,982,Canada Central,ON_TOR,"Toronto, ON",Toronto,ON,M4,M5,CAN
+982,983,Canada Central,ON_TOR,"Toronto, ON",Toronto,ON,M5,M5,CAN
+983,984,Canada Central,ON_TOR,"Toronto, ON",Toronto,ON,M6,M5,CAN
+984,985,Canada Central,ON_TOR,"Toronto, ON",Toronto,ON,M7,M5,CAN
+985,986,Canada Central,ON_TOR,"Toronto, ON",Toronto,ON,M8,M5,CAN
+986,987,Canada Central,ON_TOR,"Toronto, ON",Toronto,ON,M9,M5,CAN
+987,988,Canada Central,ON_LON,"London, ON",London,ON,N0,N6,CAN
+988,989,Canada Central,ON_LON,"London, ON",London,ON,N1,N6,CAN
+989,990,Canada Central,ON_LON,"London, ON",London,ON,N2,N6,CAN
+990,991,Canada Central,ON_LON,"London, ON",London,ON,N3,N6,CAN
+991,992,Canada Central,ON_LON,"London, ON",London,ON,N4,N6,CAN
+992,993,Canada Central,ON_LON,"London, ON",London,ON,N5,N6,CAN
+993,994,Canada Central,ON_LON,"London, ON",London,ON,N6,N6,CAN
+994,995,Canada Central,ON_LON,"London, ON",London,ON,N7,N6,CAN
+995,996,Canada Central,ON_LON,"London, ON",London,ON,N8,N6,CAN
+996,997,Canada Central,ON_LON,"London, ON",London,ON,N9,N6,CAN
+997,998,Canada Central,ON_SUD,"Sudbury, ON",Sudbury,ON,P0,P3,CAN
+998,999,Canada Central,ON_SUD,"Sudbury, ON",Sudbury,ON,P1,P3,CAN
+999,1000,Canada Central,ON_SUD,"Sudbury, ON",Sudbury,ON,P2,P3,CAN
+1000,1001,Canada Central,ON_SUD,"Sudbury, ON",Sudbury,ON,P3,P3,CAN
+1001,1002,Canada Central,ON_SUD,"Sudbury, ON",Sudbury,ON,P4,P3,CAN
+1002,1003,Canada Central,ON_SUD,"Sudbury, ON",Sudbury,ON,P5,P3,CAN
+1003,1004,Canada Central,ON_SUD,"Sudbury, ON",Sudbury,ON,P6,P3,CAN
+1004,1005,Canada Central,ON_SUD,"Sudbury, ON",Sudbury,ON,P7,P3,CAN
+1005,1006,Canada Central,ON_SUD,"Sudbury, ON",Sudbury,ON,P8,P3,CAN
+1006,1007,Canada Central,ON_SUD,"Sudbury, ON",Sudbury,ON,P9,P3,CAN
+1007,1008,Canada West,MB_WIN,"Winnipeg, MB",Winnipeg,MB,R0,R3,CAN
+1008,1009,Canada West,MB_WIN,"Winnipeg, MB",Winnipeg,MB,R1,R3,CAN
+1009,1010,Canada West,MB_WIN,"Winnipeg, MB",Winnipeg,MB,R2,R3,CAN
+1010,1011,Canada West,MB_WIN,"Winnipeg, MB",Winnipeg,MB,R3,R3,CAN
+1011,1012,Canada West,MB_WIN,"Winnipeg, MB",Winnipeg,MB,R4,R3,CAN
+1012,1013,Canada West,MB_WIN,"Winnipeg, MB",Winnipeg,MB,R5,R3,CAN
+1013,1014,Canada West,MB_WIN,"Winnipeg, MB",Winnipeg,MB,R6,R3,CAN
+1014,1015,Canada West,MB_WIN,"Winnipeg, MB",Winnipeg,MB,R7,R3,CAN
+1015,1016,Canada West,MB_WIN,"Winnipeg, MB",Winnipeg,MB,R8,R3,CAN
+1016,1017,Canada West,MB_WIN,"Winnipeg, MB",Winnipeg,MB,R9,R3,CAN
+1017,1018,Canada West,SK_REG,"Regina, SK",Regina,SK,S0,S4,CAN
+1018,1019,Canada West,SK_REG,"Regina, SK",Regina,SK,S2,S4,CAN
+1019,1020,Canada West,SK_REG,"Regina, SK",Regina,SK,S3,S4,CAN
+1020,1021,Canada West,SK_REG,"Regina, SK",Regina,SK,S4,S4,CAN
+1021,1022,Canada West,SK_REG,"Regina, SK",Regina,SK,S6,S4,CAN
+1022,1023,Canada West,SK_REG,"Regina, SK",Regina,SK,S7,S4,CAN
+1023,1024,Canada West,SK_REG,"Regina, SK",Regina,SK,S9,S4,CAN
+1024,1025,Canada West,AB_CAL,"Calgary, AB",Calgary,AB,T0,T2,CAN
+1025,1026,Canada West,AB_CAL,"Calgary, AB",Calgary,AB,T1,T2,CAN
+1026,1027,Canada West,AB_CAL,"Calgary, AB",Calgary,AB,T2,T2,CAN
+1027,1028,Canada West,AB_CAL,"Calgary, AB",Calgary,AB,T3,T2,CAN
+1028,1029,Canada West,AB_CAL,"Calgary, AB",Calgary,AB,T4,T2,CAN
+1029,1030,Canada West,AB_CAL,"Calgary, AB",Calgary,AB,T5,T2,CAN
+1030,1031,Canada West,AB_CAL,"Calgary, AB",Calgary,AB,T6,T2,CAN
+1031,1032,Canada West,AB_CAL,"Calgary, AB",Calgary,AB,T7,T2,CAN
+1032,1033,Canada West,AB_CAL,"Calgary, AB",Calgary,AB,T8,T2,CAN
+1033,1034,Canada West,AB_CAL,"Calgary, AB",Calgary,AB,T9,T2,CAN
+1034,1035,Canada West,BC_VAN,"Vancouver, BC",Vancouver,BC,V0M,V5,CAN
+1035,1036,Canada West,BC_VAN,"Vancouver, BC",Vancouver,BC,V0N,V5,CAN
+1036,1037,Canada West,BC_VAN,"Vancouver, BC",Vancouver,BC,V0P,V5,CAN
+1037,1038,Canada West,BC_VAN,"Vancouver, BC",Vancouver,BC,V0R,V5,CAN
+1038,1039,Canada West,BC_VAN,"Vancouver, BC",Vancouver,BC,V0S,V5,CAN
+1039,1040,Canada West,BC_VAN,"Vancouver, BC",Vancouver,BC,V0X,V5,CAN
+1040,1041,Canada West,BC_VAN,"Vancouver, BC",Vancouver,BC,V1M,V5,CAN
+1041,1042,Canada West,BC_VAN,"Vancouver, BC",Vancouver,BC,V2P,V5,CAN
+1042,1043,Canada West,BC_VAN,"Vancouver, BC",Vancouver,BC,V2R,V5,CAN
+1043,1044,Canada West,BC_VAN,"Vancouver, BC",Vancouver,BC,V2S,V5,CAN
+1044,1045,Canada West,BC_VAN,"Vancouver, BC",Vancouver,BC,V2T,V5,CAN
+1045,1046,Canada West,BC_VAN,"Vancouver, BC",Vancouver,BC,V2V,V5,CAN
+1046,1047,Canada West,BC_VAN,"Vancouver, BC",Vancouver,BC,V2W,V5,CAN
+1047,1048,Canada West,BC_VAN,"Vancouver, BC",Vancouver,BC,V2X,V5,CAN
+1048,1049,Canada West,BC_VAN,"Vancouver, BC",Vancouver,BC,V2Y,V5,CAN
+1049,1050,Canada West,BC_VAN,"Vancouver, BC",Vancouver,BC,V2Z,V5,CAN
+1050,1051,Canada West,BC_VAN,"Vancouver, BC",Vancouver,BC,V3,V5,CAN
+1051,1052,Canada West,BC_VAN,"Vancouver, BC",Vancouver,BC,V4A,V5,CAN
+1052,1053,Canada West,BC_VAN,"Vancouver, BC",Vancouver,BC,V4B,V5,CAN
+1053,1054,Canada West,BC_VAN,"Vancouver, BC",Vancouver,BC,V4C,V5,CAN
+1054,1055,Canada West,BC_VAN,"Vancouver, BC",Vancouver,BC,V4E,V5,CAN
+1055,1056,Canada West,BC_VAN,"Vancouver, BC",Vancouver,BC,V4G,V5,CAN
+1056,1057,Canada West,BC_VAN,"Vancouver, BC",Vancouver,BC,V4K,V5,CAN
+1057,1058,Canada West,BC_VAN,"Vancouver, BC",Vancouver,BC,V4L,V5,CAN
+1058,1059,Canada West,BC_VAN,"Vancouver, BC",Vancouver,BC,V4M,V5,CAN
+1059,1060,Canada West,BC_VAN,"Vancouver, BC",Vancouver,BC,V4N,V5,CAN
+1060,1061,Canada West,BC_VAN,"Vancouver, BC",Vancouver,BC,V4P,V5,CAN
+1061,1062,Canada West,BC_VAN,"Vancouver, BC",Vancouver,BC,V4R,V5,CAN
+1062,1063,Canada West,BC_VAN,"Vancouver, BC",Vancouver,BC,V4S,V5,CAN
+1063,1064,Canada West,BC_VAN,"Vancouver, BC",Vancouver,BC,V4W,V5,CAN
+1064,1065,Canada West,BC_VAN,"Vancouver, BC",Vancouver,BC,V4X,V5,CAN
+1065,1066,Canada West,BC_VAN,"Vancouver, BC",Vancouver,BC,V4Z,V5,CAN
+1066,1067,Canada West,BC_VAN,"Vancouver, BC",Vancouver,BC,V5,V5,CAN
+1067,1068,Canada West,BC_VAN,"Vancouver, BC",Vancouver,BC,V6,V5,CAN
+1068,1069,Canada West,BC_VAN,"Vancouver, BC",Vancouver,BC,V7,V5,CAN
+1069,1070,Canada West,BC_VAN,"Vancouver, BC",Vancouver,BC,V8A,V5,CAN
+1070,1071,Canada West,BC_VAN,"Vancouver, BC",Vancouver,BC,V8B,V5,CAN
+1071,1072,Canada West,BC_VAN,"Vancouver, BC",Vancouver,BC,V8C,V5,CAN
+1072,1073,Canada West,BC_VAN,"Vancouver, BC",Vancouver,BC,V8K,V5,CAN
+1073,1074,Canada West,BC_VAN,"Vancouver, BC",Vancouver,BC,V8L,V5,CAN
+1074,1075,Canada West,BC_VAN,"Vancouver, BC",Vancouver,BC,V8M,V5,CAN
+1075,1076,Canada West,BC_VAN,"Vancouver, BC",Vancouver,BC,V8N,V5,CAN
+1076,1077,Canada West,BC_VAN,"Vancouver, BC",Vancouver,BC,V8P,V5,CAN
+1077,1078,Canada West,BC_VAN,"Vancouver, BC",Vancouver,BC,V8R,V5,CAN
+1078,1079,Canada West,BC_VAN,"Vancouver, BC",Vancouver,BC,V8S,V5,CAN
+1079,1080,Canada West,BC_VAN,"Vancouver, BC",Vancouver,BC,V8T,V5,CAN
+1080,1081,Canada West,BC_VAN,"Vancouver, BC",Vancouver,BC,V8V,V5,CAN
+1081,1082,Canada West,BC_VAN,"Vancouver, BC",Vancouver,BC,V8W,V5,CAN
+1082,1083,Canada West,BC_VAN,"Vancouver, BC",Vancouver,BC,V8X,V5,CAN
+1083,1084,Canada West,BC_VAN,"Vancouver, BC",Vancouver,BC,V8Y,V5,CAN
+1084,1085,Canada West,BC_VAN,"Vancouver, BC",Vancouver,BC,V8Z,V5,CAN
+1085,1086,Canada West,BC_VAN,"Vancouver, BC",Vancouver,BC,V9,V5,CAN
+1086,1087,Canada West,BC_PRI,"Prince George, BC",Prince George,BC,V0A,V2,CAN
+1087,1088,Canada West,BC_PRI,"Prince George, BC",Prince George,BC,V0B,V2,CAN
+1088,1089,Canada West,BC_PRI,"Prince George, BC",Prince George,BC,V0C,V2,CAN
+1089,1090,Canada West,BC_PRI,"Prince George, BC",Prince George,BC,V0E,V2,CAN
+1090,1091,Canada West,BC_PRI,"Prince George, BC",Prince George,BC,V0G,V2,CAN
+1091,1092,Canada West,BC_PRI,"Prince George, BC",Prince George,BC,V0H,V2,CAN
+1092,1093,Canada West,BC_PRI,"Prince George, BC",Prince George,BC,V0J,V2,CAN
+1093,1094,Canada West,BC_PRI,"Prince George, BC",Prince George,BC,V0K,V2,CAN
+1094,1095,Canada West,BC_PRI,"Prince George, BC",Prince George,BC,V0L,V2,CAN
+1095,1096,Canada West,BC_PRI,"Prince George, BC",Prince George,BC,V0T,V2,CAN
+1096,1097,Canada West,BC_PRI,"Prince George, BC",Prince George,BC,V0V,V2,CAN
+1097,1098,Canada West,BC_PRI,"Prince George, BC",Prince George,BC,V0W,V2,CAN
+1098,1099,Canada West,BC_PRI,"Prince George, BC",Prince George,BC,V1A,V2,CAN
+1099,1100,Canada West,BC_PRI,"Prince George, BC",Prince George,BC,V1B,V2,CAN
+1100,1101,Canada West,BC_PRI,"Prince George, BC",Prince George,BC,V1C,V2,CAN
+1101,1102,Canada West,BC_PRI,"Prince George, BC",Prince George,BC,V1E,V2,CAN
+1102,1103,Canada West,BC_PRI,"Prince George, BC",Prince George,BC,V1G,V2,CAN
+1103,1104,Canada West,BC_PRI,"Prince George, BC",Prince George,BC,V1H,V2,CAN
+1104,1105,Canada West,BC_PRI,"Prince George, BC",Prince George,BC,V1J,V2,CAN
+1105,1106,Canada West,BC_PRI,"Prince George, BC",Prince George,BC,V1K,V2,CAN
+1106,1107,Canada West,BC_PRI,"Prince George, BC",Prince George,BC,V1L,V2,CAN
+1107,1108,Canada West,BC_PRI,"Prince George, BC",Prince George,BC,V1N,V2,CAN
+1108,1109,Canada West,BC_PRI,"Prince George, BC",Prince George,BC,V1P,V2,CAN
+1109,1110,Canada West,BC_PRI,"Prince George, BC",Prince George,BC,V1R,V2,CAN
+1110,1111,Canada West,BC_PRI,"Prince George, BC",Prince George,BC,V1S,V2,CAN
+1111,1112,Canada West,BC_PRI,"Prince George, BC",Prince George,BC,V1T,V2,CAN
+1112,1113,Canada West,BC_PRI,"Prince George, BC",Prince George,BC,V1V,V2,CAN
+1113,1114,Canada West,BC_PRI,"Prince George, BC",Prince George,BC,V1W,V2,CAN
+1114,1115,Canada West,BC_PRI,"Prince George, BC",Prince George,BC,V1X,V2,CAN
+1115,1116,Canada West,BC_PRI,"Prince George, BC",Prince George,BC,V1Y,V2,CAN
+1116,1117,Canada West,BC_PRI,"Prince George, BC",Prince George,BC,V1Z,V2,CAN
+1117,1118,Canada West,BC_PRI,"Prince George, BC",Prince George,BC,V2A,V2,CAN
+1118,1119,Canada West,BC_PRI,"Prince George, BC",Prince George,BC,V2B,V2,CAN
+1119,1120,Canada West,BC_PRI,"Prince George, BC",Prince George,BC,V2C,V2,CAN
+1120,1121,Canada West,BC_PRI,"Prince George, BC",Prince George,BC,V2E,V2,CAN
+1121,1122,Canada West,BC_PRI,"Prince George, BC",Prince George,BC,V2G,V2,CAN
+1122,1123,Canada West,BC_PRI,"Prince George, BC",Prince George,BC,V2H,V2,CAN
+1123,1124,Canada West,BC_PRI,"Prince George, BC",Prince George,BC,V2J,V2,CAN
+1124,1125,Canada West,BC_PRI,"Prince George, BC",Prince George,BC,V2K,V2,CAN
+1125,1126,Canada West,BC_PRI,"Prince George, BC",Prince George,BC,V2L,V2,CAN
+1126,1127,Canada West,BC_PRI,"Prince George, BC",Prince George,BC,V2M,V2,CAN
+1127,1128,Canada West,BC_PRI,"Prince George, BC",Prince George,BC,V2N,V2,CAN
+1128,1129,Canada West,BC_PRI,"Prince George, BC",Prince George,BC,V4T,V2,CAN
+1129,1130,Canada West,BC_PRI,"Prince George, BC",Prince George,BC,V4V,V2,CAN
+1130,1131,Canada West,BC_PRI,"Prince George, BC",Prince George,BC,V8G,V2,CAN
+1131,1132,Canada West,BC_PRI,"Prince George, BC",Prince George,BC,V8J,V2,CAN
